@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| simple.institute | available | $9.99     | $35.99        | 128            | 48     | 6      | name.com                   |
+| simple.institute | available | $9.99     | $35.99        | 128            | 49     | 6      | name.com                   |
 | domain.institute | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC               |
 | one.institute    | premium   | $500      | $500          | 132            | 50     | 3      | name.com                   |
 | only.institute   | available | $9.99     | $35.99        | 110            | 45     | 4      | name.com                   |
@@ -72,17 +72,17 @@ print(df.head())
 | big.institute    | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com                   |
 | track.institute  | available | $9.99     | $35.99        | 94             | 42     | 5      | name.com                   |
 | web.institute    | resell    | —         | —             | 72             | 61     | 3      | Squarespace Domains II LLC |
-| pop.institute    | premium   | $41.25    | $41.25        | 82             | 43     | 3      | name.com                   |
-| order.institute  | available | $9.99     | $35.99        | 78             | 41     | 5      | name.com                   |
+| pop.institute    | premium   | $41.25    | $41.25        | 82             | 44     | 3      | name.com                   |
+| order.institute  | available | $9.99     | $35.99        | 78             | 40     | 5      | name.com                   |
 | pay.institute    | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC                |
 | aaa.institute    | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                  |
-| daily.institute  | available | $9.99     | $35.99        | 74             | 40     | 5      | name.com                   |
+| dark.institute   | available | $9.99     | $35.99        | 52             | 40     | 4      | name.com                   |
 | good.institute   | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 46          |
 | sports.institute | premium   | $520      | $520          | 110            | 37     | 6      | namecheap                  |
-| dark.institute   | available | $9.99     | $35.99        | 52             | 40     | 4      | name.com                   |
+| review.institute | available | $37.98    | —             | 94             | 39     | 6      | namecheap                  |
 | music.institute  | resell    | —         | —             | 84             | 54     | 5      | Dynadot Inc                |
 | land.institute   | premium   | $128.70   | $128.70       | 62             | 36     | 4      | namecheap                  |
-| review.institute | available | $37.98    | —             | 94             | 39     | 6      | namecheap                  |
+| daily.institute  | available | $9.99     | $35.99        | 74             | 39     | 5      | name.com                   |
 | shop.institute   | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
