@@ -818,6 +818,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48838c09-4dd3-48be-b36e-1f5ed4f43d94,billofrights.institute,available,9.99,,70,3,14,name.com,,
 488f52af-e1f0-425b-ba1d-035873a1de1a,hangon.institute,available,9.99,,82,6,7,name.com,,
 4897bdef-bb1b-4a90-bda5-39072eb0ba46,changeout.institute,available,9.99,,50,1,10,name.com,,
+48bb798e-bdaa-442b-833f-3951272d74b8,investor.institute,premium,,,82,40,8,,,
 48c85642-ef4b-44ce-9fb4-2fa9884c0ea5,divinegrace.institute,available,9.99,,68,3,12,name.com,,
 48cc69fc-b20b-40e6-a832-840c74e2b779,keeptrackof.institute,available,9.99,,48,1,13,name.com,,
 48ec8a3a-7e80-42b1-a0a9-f01ccb5d3568,killed.institute,available,9.99,,56,5,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58768600-a57f-4a5d-96a1-bb902687f8fd,flashmemory.institute,available,9.99,,76,2,12,name.com,,
 587cd230-4e19-4d24-91ba-a0d35abd48a6,Ihavediabetes.institute,available,37.98,,50,2,15,namecheap,,
 587f0f0f-e13d-4056-9128-be19961cc45b,responds.institute,available,9.99,,58,3,8,name.com,,
-588a3c90-e594-455c-9366-f8c16e2ce973,longterm.institute,available,9.99,,72,10,9,name.com,,
