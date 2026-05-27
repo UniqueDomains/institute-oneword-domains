@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .institute one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,722 domains · **Median ask:** $13.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/institute`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | bio.institute      | resell    | —         | —             | 78             | 44     | 3      | Spaceship, Inc. |
 | jobs.institute     | premium   | $500      | —             | 79             | 42     | 4      | name.com        |
 | stories.institute  | available | $9.99     | —             | 58             | 36     | 7      | name.com        |
-| etc.institute      | premium   | $123.75   | —             | 58             | 34     | 3      | name.com        |
+| etc.institute      | premium   | $123.75   | —             | 58             | 32     | 3      | name.com        |
 | trends.institute   | available | $9.99     | —             | 60             | 32     | 6      | name.com        |
 | Jim.institute      | premium   | $28       | $28           | 78             | 28     | 3      | namecheap       |
 | William.institute  | available | $37.98    | —             | 74             | 31     | 7      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
