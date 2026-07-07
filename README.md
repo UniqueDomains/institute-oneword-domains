@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .institute one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,722 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,722 domains · **Median ask:** $13.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,722 domains · **Median ask:** $14.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/institute`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/institute`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INSTITUTE one-word do
 
 ### Files
 
-- `institute.csv` — public CSV extract (1,000 rows)
-- `institute.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `institute.csv`, public CSV extract (1,000 rows)
+- `institute.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.institute     | available | $37.98    | —             | 80             | 5      | 5      | namecheap       |
-| finals.institute   | available | $9.99     | —             | 80             | 7      | 6      | name.com        |
-| barup.institute    | available | $9.99     | —             | 82             | 2      | 6      | name.com        |
-| QandA.institute    | available | $37.98    | —             | 80             | 10     | 7      | namecheap       |
-| hangon.institute   | available | $9.99     | —             | 82             | 6      | 7      | name.com        |
-| pierogi.institute  | available | $9.99     | —             | 82             | 7      | 7      | name.com        |
-| stirup.institute   | available | $9.99     | —             | 82             | 3      | 7      | name.com        |
-| messages.institute | available | $9.99     | —             | 80             | 16     | 8      | name.com        |
-| justin.institute   | available | $9.99     | —             | 58             | 38     | 7      | name.com        |
-| bio.institute      | resell    | —         | —             | 78             | 44     | 3      | Spaceship, Inc. |
-| jobs.institute     | premium   | $500      | —             | 79             | 42     | 4      | name.com        |
-| stories.institute  | available | $9.99     | —             | 58             | 36     | 7      | name.com        |
-| etc.institute      | premium   | $123.75   | —             | 58             | 32     | 3      | name.com        |
-| trends.institute   | available | $9.99     | —             | 60             | 32     | 6      | name.com        |
-| Jim.institute      | premium   | $28       | $28           | 78             | 28     | 3      | namecheap       |
-| William.institute  | available | $37.98    | —             | 74             | 31     | 7      | namecheap       |
-| hills.institute    | premium   | $28       | $28           | 65             | 20     | 5      | namecheap       |
-| goodlife.institute | available | $9.99     | —             | 60             | 31     | 9      | name.com        |
-| newage.institute   | premium   | $41.25    | —             | 56             | 20     | 7      | name.com        |
-| cams.institute     | available | $9.99     | —             | 52             | 29     | 4      | name.com        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| BJP.institute  | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| run.institute  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| ash.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| LLP.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| web.institute  | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                                |
+| bar.institute  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| TBD.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| flip.institute | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
+| bro.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| UML.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| plus.institute | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| err.institute  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
+| UPC.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| risk.institute | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fig.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| wiz.institute  | available | $9.99     | $35.99        | high           | low    | 3      | name.com                                                  |
+| safe.institute | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| ham.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| ages.institute | available | $9.99     | —             | medium         | low    | 4      | name.com                                                  |
+| true.institute | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 6                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .institute extension, which gives the set a clear institutional, academic, research, or training-oriented tone. That makes direct keyword matches especially important. A name like Acup.institute reads differently from a broader word like finals.institute or a brand-like term such as Trex.institute. For founders, the main question is whether the word makes the purpose instantly clear and still feels ownable. For investors, the focus is narrower: how commercially usable the keyword is inside .institute, whether the ask leaves room for a deal, and whether the term has credible end-user relevance rather than generic novelty alone.
+This set spans 11,722 one-word and short compound names on the .institute extension, from everyday words to niche terms. With a median asking price near $14, it offers an affordable way to compare short, brandable names before committing to one.
 
-- Single-word .institute names with an institutional tone
-- Median ask is 13.70 across this selection
-- Best fits are clear education, training, or research terms
-- Check keyword fit before paying for broad or vague words
+- 11,722 one-word .institute domains tracked, updated daily.
+- Median ask sits near $14 — a low-cost entry point.
+- Short, brandable names suit founders launching new projects.
+- Compare pricing and renewal costs before choosing a domain.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
