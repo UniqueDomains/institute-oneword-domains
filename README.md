@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .institute one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,100 domains · **Median ask:** $10.78 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/institute`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| quiet.institute  | available | $9.99     | —             | high           | low    | 5      | name.com                                                  |
-| period.institute | available | $9.99     | —             | high           | low    | 6      | name.com                                                  |
-| count.institute  | available | $9.99     | —             | high           | low    | 5      | name.com                                                  |
-| ain.institute    | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
-| run.institute    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| ash.institute    | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
-| BJP.institute    | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
-| web.institute    | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                                |
-| bar.institute    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| ixc.institute    | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
-| flip.institute   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
-| bro.institute    | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
-| LLP.institute    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| plus.institute   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| err.institute    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| lvi.institute    | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
-| risk.institute   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| fig.institute    | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
-| TBD.institute    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| safe.institute   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ain.institute  | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
+| run.institute  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| ash.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| BJP.institute  | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| web.institute  | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                                |
+| bar.institute  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ixc.institute  | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
+| flip.institute | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                              |
+| bro.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| LLP.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| plus.institute | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| err.institute  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
+| lvi.institute  | available | $5.98     | $37.98        | low            | low    | 3      | namecheap                                                 |
+| risk.institute | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fig.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| TBD.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| safe.institute | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| ham.institute  | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| UML.institute  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| true.institute | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 6                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSTITUTE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
