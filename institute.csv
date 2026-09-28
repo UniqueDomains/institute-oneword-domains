@@ -1,14 +1,14 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 b0b90f82-77f0-430c-9b6d-a506fe6f3efc,built.institute,available,9.99,27.49,high,low,5,namesilo,,,23/09/2026 10:20
-f2ca10eb-18a9-4458-8a94-c444e90b931f,walters.institute,available,9.99,27.49,high,low,7,namesilo,,,25/09/2026 15:56
+f2ca10eb-18a9-4458-8a94-c444e90b931f,walters.institute,available,9.99,27.49,medium,low,7,namesilo,,,25/09/2026 15:56
 c7bb41aa-74a3-4322-a1c3-0ff61eb009a4,ataxic.institute,available,5.98,37.98,medium,low,6,namecheap,,,07/08/2026 12:32
 54b4baad-eb9a-412b-b97d-a0e0dfade947,dubstep.institute,available,9.99,,high,low,7,name.com,,,
 15f74218-9585-48b4-94c3-de2146ab3c16,barrier.institute,available,9.99,,medium,low,7,name.com,,,
-81ab3ebd-5d8a-42c6-9011-de217d2fa4d0,universities.institute,available,9.99,27.49,high,low,12,namesilo,,,23/09/2026 19:40
+81ab3ebd-5d8a-42c6-9011-de217d2fa4d0,universities.institute,available,9.99,27.49,medium,low,12,namesilo,,,23/09/2026 19:40
 4f95d24a-c921-4210-8f76-dfbde815d5b3,checks.institute,available,5.98,37.98,medium,low,6,namecheap,,,25/09/2026 20:11
 e9c41a0f-5440-42b8-a122-721077c94872,scientific.institute,available,5.98,37.98,high,low,10,namecheap,,,25/09/2026 22:34
 27efa634-ebed-44a5-acfb-03438de5a168,protecting.institute,available,9.99,27.49,high,low,10,namesilo,,,27/09/2026 02:52
-2c037208-99b5-4e2b-b13a-041afcad2d76,gripe.institute,available,9.99,27.49,high,low,5,namesilo,,,23/09/2026 00:19
+2c037208-99b5-4e2b-b13a-041afcad2d76,gripe.institute,available,9.99,27.49,medium,low,5,namesilo,,,23/09/2026 00:19
 cf065032-5bfa-4119-b929-ba884074a35d,counting.institute,available,9.99,27.49,high,low,8,namesilo,,,25/09/2026 04:26
 0683d3d4-0ffa-4286-b7fc-fd97ba9525af,spunky.institute,available,5.98,37.98,high,low,6,namecheap,,,18/08/2026 00:49
 3f82eed2-e2d3-43d5-84be-014cfbe090c9,granny.institute,available,9.99,,high,low,6,name.com,,,
@@ -19,26 +19,28 @@ c3317b93-371e-4f0c-80fb-6cc0082feed8,seconded.institute,available,9.99,27.49,med
 0ba9b48f-dfc8-444d-97db-45d51d53c313,edacious.institute,available,5.98,37.98,medium,low,8,namecheap,,,15/08/2026 05:24
 574cd561-120c-418f-93f5-8385657b23d3,noodle.institute,available,9.99,27.49,high,low,6,namesilo,,,24/09/2026 06:38
 a34ae5af-e862-4741-b293-9e6fd31cfb95,dampish.institute,available,13.99,35.99,medium,low,7,name.com,,,13/08/2026 16:41
-800c264d-ee97-45d5-9bc6-0b1621880104,stump.institute,available,5.98,37.98,high,low,5,namecheap,,,18/09/2026 17:18
+800c264d-ee97-45d5-9bc6-0b1621880104,stump.institute,available,5.98,37.98,medium,low,5,namecheap,,,18/09/2026 17:18
 f4c0b66c-9746-4ed8-a6da-71f0865de748,bounden.institute,available,5.98,37.98,medium,low,7,namecheap,,,10/08/2026 21:56
 b14d3b2f-6abd-4d35-9aef-b3a596125479,november.institute,available,9.99,,high,low,8,name.com,,,
 b8c86960-db8f-4e80-9c71-6eb4f72113ac,foreshadow.institute,available,9.99,27.49,high,low,10,namesilo,,,21/09/2026 03:32
-28f25ef9-b09d-4959-aa9b-a072544f92b1,kigali.institute,available,9.99,27.49,high,low,6,namesilo,,,24/09/2026 12:21
+28f25ef9-b09d-4959-aa9b-a072544f92b1,kigali.institute,available,9.99,27.49,medium,low,6,namesilo,,,24/09/2026 12:21
 e0bebe85-f6f1-43ac-b5a4-e9b8d17e84c0,vanished.institute,available,5.98,37.98,medium,low,8,namecheap,,,13/09/2026 01:09
 c946f900-67d2-4fdf-97eb-be31d5d2a580,tests.institute,available,9.99,27.49,high,low,5,namesilo,,,17/09/2026 22:12
 33541cf5-9bba-42a8-a4a3-84a253c64383,stripes.institute,available,9.99,27.49,high,low,7,namesilo,,,24/09/2026 14:23
+fe242705-a05a-4bf1-8efb-b7ef7ddb73d5,persons.institute,available,21.2,21.2,medium,low,7,cloudflare,,,27/09/2026 21:14
 edfecb95-da97-402b-bccc-e8c02c5d6804,interpret.institute,available,9.99,,high,low,9,name.com,,,
 22efb97c-39c2-4b40-99e3-9499d4f2a9c3,lunate.institute,available,5.98,37.98,medium,low,6,namecheap,,,13/08/2026 06:12
 4857837b-70f7-4ba8-ad79-e77678ccb4f3,overcomes.institute,available,5.98,37.98,medium,low,9,namecheap,,,21/09/2026 04:26
-ad548be7-0879-435f-818e-96b5d71612cc,scienter.institute,available,5.98,37.98,high,low,8,namecheap,,,16/09/2026 00:44
+ad548be7-0879-435f-818e-96b5d71612cc,scienter.institute,available,5.98,37.98,medium,low,8,namecheap,,,16/09/2026 00:44
 25439372-779d-482a-bfb4-31a62ee0a148,album.institute,available,9.99,,high,low,5,name.com,,,
 8200220a-d05e-4fbf-868f-47cb4a4986c2,lxxx.institute,available,5.98,37.98,medium,low,4,namecheap,,,
 9daec118-ba75-47cc-b21d-1a5f105cf9c6,overbold.institute,available,5.98,37.98,medium,low,8,namecheap,,,04/09/2026 20:21
 9d8e10f1-28f3-4979-b7d4-55cc25874dbd,aqueduct.institute,available,5.98,37.98,high,low,8,namecheap,,,19/09/2026 23:10
 140c1dec-2f64-421c-9919-cf4e265ed718,descend.institute,available,9.99,,high,low,7,name.com,,,
 44b5c498-b6f7-460e-bfd8-30ff4d4e9598,protective.institute,available,9.99,27.49,high,low,10,namesilo,,,27/09/2026 07:44
-5be34faa-082b-4484-9aa9-93ebc0be052b,permissive.institute,available,5.98,37.98,high,low,10,namecheap,,,08/09/2026 17:48
+5be34faa-082b-4484-9aa9-93ebc0be052b,permissive.institute,available,5.98,37.98,medium,low,10,namecheap,,,08/09/2026 17:48
 1f558349-e9c4-477d-9c80-6ca041472461,fitful.institute,available,5.98,37.98,medium,low,6,namecheap,,,18/08/2026 05:45
+bbaa425d-2801-4bc6-983e-89cd8e34775e,playground.institute,available,9.99,27.49,high,medium,10,namesilo,,,28/09/2026 02:56
 6584be3b-7e33-469a-bf8c-e2a4362ee408,richness.institute,available,5.98,37.98,high,low,8,namecheap,,,17/09/2026 14:41
 51c7c57e-ff1f-46e7-bc88-a1a8a3ffb0bc,hostility.institute,available,9.99,27.49,medium,low,9,namesilo,,,19/09/2026 12:25
 453fa977-459c-4484-ace9-2f2e250c2d20,striped.institute,available,5.98,37.98,high,low,7,namecheap,,,10/09/2026 22:44
@@ -49,7 +51,7 @@ ad548be7-0879-435f-818e-96b5d71612cc,scienter.institute,available,5.98,37.98,hig
 8c9d1646-0de0-46f5-b7e4-2911cf1f0f10,extras.institute,available,9.99,,medium,low,6,name.com,,,
 a22304e2-cd06-40c8-9672-72eb237ddcab,berretta.institute,available,9.99,27.49,medium,low,8,namesilo,,,23/09/2026 10:07
 45edd9b4-ba9e-4e8a-b014-47a48bf1fb55,croatian.institute,available,5.98,37.98,high,low,8,namecheap,,,13/08/2026 07:32
-7e7c5171-2abd-4d50-bc6c-5a1adf1afa7b,aggravated.institute,available,5.98,37.98,high,low,10,namecheap,,,
+7e7c5171-2abd-4d50-bc6c-5a1adf1afa7b,aggravated.institute,available,5.98,37.98,medium,low,10,namecheap,,,
 f7a04cfb-9f33-4d1f-aac8-e32863731319,ascription.institute,available,9.99,27.49,medium,low,10,namesilo,,,20/09/2026 13:27
 9f593f03-b008-433c-a50a-8628cae12805,really.institute,available,9.99,27.49,high,low,6,namesilo,,,27/09/2026 09:55
 56377fdd-6717-43b8-8d11-86f7e0e86705,diaphanous.institute,available,5.98,37.98,medium,low,10,namecheap,,,12/08/2026 14:26
@@ -80,6 +82,7 @@ cf625267-8dd3-4190-aa2f-10d79da1edae,amatory.institute,available,5.98,37.98,medi
 ed9a3a36-39ef-436c-88b9-5b2bee41b979,badness.institute,available,5.98,37.98,medium,low,7,namecheap,,,08/08/2026 07:23
 5e62151f-c8af-480f-b65c-6a3268544fb2,esther.institute,available,9.99,27.49,high,low,6,namesilo,,,24/09/2026 06:50
 80f9e937-8302-47aa-b9a0-f9be65b9962b,anseres.institute,available,9.99,27.49,medium,low,7,namesilo,,,19/09/2026 12:08
+eec70db4-1c5f-409f-af39-e8fda287cd9b,leland.institute,available,5.38,21.94,medium,low,6,spaceship,,,27/09/2026 21:02
 d9464149-ef42-41f2-8521-e3cfce11280f,summoned.institute,available,9.99,,medium,low,8,name.com,,,
 9dab9956-d1d2-4018-beb4-6a04030383a2,amongst.institute,available,9.99,,medium,low,7,name.com,,,
 69dada22-9cab-4899-89f6-9abfccc20f1a,which.institute,available,,,high,medium,5,,,,
@@ -112,11 +115,13 @@ c8db9ea7-8dea-4b2e-b780-c96dc9ebe328,sachs.institute,available,5.98,37.98,medium
 52134244-5bef-4591-8e3e-e601ac8ca791,luxuriant.institute,available,5.98,37.98,high,low,9,namecheap,,,15/08/2026 22:14
 a77bc828-a2b8-458e-ae38-091b127518c3,enter.institute,available,9.99,,high,low,5,name.com,,,
 cfdeb429-1749-4b47-ae8d-85ba39c65888,abstracter.institute,available,5.98,37.98,medium,low,10,namecheap,,,16/09/2026 18:30
+8e7b7c4c-2605-4950-b6d4-7831801e9125,warden.institute,available,5.38,21.94,high,low,6,spaceship,,,27/09/2026 16:17
 a417ce33-5e36-4565-921e-47cc7c60f6b9,husky.institute,available,,,high,medium,5,,,,
 a111b613-5a2f-4711-bc63-e35a464d165e,failures.institute,available,5.98,37.98,low,low,8,namecheap,,,20/09/2026 17:55
 7e404d72-53f9-4d70-bab9-2a1eb61589de,nineties.institute,available,13.99,35.99,medium,low,8,name.com,,,16/09/2026 12:01
-763e5467-4a7f-497e-84a7-b3617d29e805,massively.institute,available,5.98,37.98,high,low,9,namecheap,,,15/09/2026 13:35
+763e5467-4a7f-497e-84a7-b3617d29e805,massively.institute,available,5.98,37.98,medium,low,9,namecheap,,,15/09/2026 13:35
 1341bb83-d41b-4e8e-a18f-30a0f1360fef,cockcrow.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/09/2026 02:11
+fd5bbb51-c57b-4539-8ad8-fb0464aa3309,melody.institute,available,21.2,21.2,high,low,6,cloudflare,,,28/09/2026 02:24
 5838eee7-86ba-4a75-9ba7-87f53ef74562,master.institute,resell,,,high,low,6,"Sav.com, LLC - 30",03/09/2026 15:15,03/09/2027 15:15,26/09/2026 07:27
 93622fc2-65c7-4d4e-81d7-f8d0466c54e0,barrage.institute,available,9.99,27.49,medium,low,7,namesilo,,,22/09/2026 07:57
 32b7342e-e137-458c-aa6b-bec020299539,seize.institute,available,5.98,37.98,high,low,5,namecheap,,,23/09/2026 20:08
@@ -129,7 +134,7 @@ f73cbfd0-1dc4-48a4-957a-3f115a530058,bodyguard.institute,available,9.99,27.49,hi
 e6260b1b-609a-4d5d-a6f2-ccf75bb1bdac,accusing.institute,available,5.98,37.98,medium,low,8,namecheap,,,
 1e069994-42a9-4ad4-a465-9a8507fb034e,baleful.institute,available,5.98,37.98,medium,low,7,namecheap,,,08/08/2026 09:39
 c50052d1-5d39-4eac-b485-288508185265,athenian.institute,available,5.98,37.98,medium,low,8,namecheap,,,07/08/2026 13:08
-f4ab4efa-7a6f-43a4-80dd-987ea7c9e8b1,alcott.institute,available,9.99,27.49,high,low,6,namesilo,,,18/09/2026 04:10
+f4ab4efa-7a6f-43a4-80dd-987ea7c9e8b1,alcott.institute,available,9.99,27.49,medium,low,6,namesilo,,,18/09/2026 04:10
 1405c5f1-4dad-4dd2-a0e9-2f40f3eb53b1,discord.institute,available,9.99,,high,medium,7,name.com,,,
 3e83211b-c72d-4a46-9ee5-08d863634d63,limit.institute,available,9.99,,high,low,5,name.com,,,
 3eb69f58-203b-46e7-b5ed-688946e64d02,excess.institute,available,5.98,37.98,high,low,6,namecheap,,,17/08/2026 16:06
@@ -146,7 +151,7 @@ a1200550-e397-4fef-832f-eb6551673125,gonzalez.institute,premium,23.6,23.6,high,l
 e3c62b8e-a94f-4ae3-aeb3-56193d3dcae7,suited.institute,available,5.98,37.98,high,low,6,namecheap,,,11/09/2026 01:21
 fb94598d-893a-43bd-8d75-60b98276a821,watchfully.institute,available,9.99,27.49,medium,low,10,namesilo,,,16/09/2026 10:58
 1ac2078a-4bb5-4a1f-bb86-da909ffeafdf,license.institute,available,5.98,37.98,high,low,7,namecheap,,,25/09/2026 08:58
-fd5682de-6dc9-43de-9f88-1326e5172ef0,incessant.institute,available,5.98,37.98,high,low,9,namecheap,,,11/08/2026 23:04
+fd5682de-6dc9-43de-9f88-1326e5172ef0,incessant.institute,available,5.98,37.98,medium,low,9,namecheap,,,11/08/2026 23:04
 51d75cc4-e59e-47a7-b301-76150020ed43,impudent.institute,available,5.98,37.98,medium,low,8,namecheap,,,18/08/2026 08:23
 2c524227-3551-4562-ab6e-9d6b4ded9e57,casket.institute,available,9.99,,high,low,6,name.com,,,
 e33b5783-31db-49fa-b917-7c749f0d5ff3,ampicillin.institute,available,9.99,27.49,medium,low,10,namesilo,,,18/09/2026 23:35
@@ -154,6 +159,7 @@ e33b5783-31db-49fa-b917-7c749f0d5ff3,ampicillin.institute,available,9.99,27.49,m
 8157a49e-bec0-4b83-8e3c-8ce2bf27d280,forest.institute,available,9.99,27.49,high,low,6,namesilo,,,19/09/2026 06:42
 bea72c6f-2b6d-49fe-9e24-21fe4473dc2f,sculpt.institute,available,5.98,37.98,high,low,6,namecheap,,,20/08/2026 18:43
 d58758b5-b585-45b6-b6f3-dc39665cf963,contraband.institute,available,5.98,37.98,high,low,10,namecheap,,,22/09/2026 21:25
+d9f59e4f-3593-40f7-9a70-7ba309cd0ae1,pipes.institute,available,5.38,21.94,high,low,5,spaceship,,,27/09/2026 22:20
 8bfcd0a2-f13c-4fc2-a969-56e23e38a959,reputably.institute,available,5.98,37.98,high,low,9,namecheap,,,15/09/2026 23:17
 55348884-f367-4710-9c7d-cbc1ca93f684,refused.institute,available,5.98,37.98,medium,low,7,namecheap,,,18/09/2026 13:40
 ef7b1110-7ea5-4ec5-96ff-f7f0ad886a0f,atlantic.institute,resell,,,high,low,8,"Spaceship, Inc.",10/08/2019 21:31,10/08/2027 21:31,26/09/2026 04:06
@@ -188,12 +194,12 @@ ca272378-cfb9-4fd6-bb3b-bb92a675d0da,necessities.institute,available,9.99,,mediu
 a6237c34-fae4-4e98-8ff9-4516385e21fa,backgammon.institute,available,9.99,27.49,high,low,10,namesilo,,,21/09/2026 15:34
 a3d3bab6-bfb6-4cba-b295-76ff5ef5b57d,birthing.institute,available,5.98,37.98,high,low,8,namecheap,,,23/09/2026 21:07
 58d821b1-832b-4470-a65a-89dc87b88b68,views.institute,available,9.99,27.49,high,low,5,namesilo,,,16/09/2026 22:00
-bc3fbd48-1188-4e25-ae73-9742134417d4,tike.institute,available,5.98,37.98,high,low,4,namecheap,,,25/08/2026 00:12
+bc3fbd48-1188-4e25-ae73-9742134417d4,tike.institute,available,5.98,37.98,medium,low,4,namecheap,,,25/08/2026 00:12
 f171a46c-2ac3-45b1-b459-c9c322b9eb0f,bewilder.institute,available,13.99,35.99,high,low,8,name.com,,,21/09/2026 17:30
 ab3ccdf9-3cad-4b74-b4a2-1045da4fc0dd,auricula.institute,available,9.99,27.49,medium,low,8,namesilo,,,21/09/2026 04:20
 cf3c41c4-97c3-4c7b-a967-e8e06a5f1645,piffle.institute,available,5.98,37.98,medium,low,6,namecheap,,,21/09/2026 21:41
 532af5af-772a-48e8-a3c3-d7b11b72b289,normandy.institute,available,9.99,,medium,low,8,name.com,,,
-aea2c87c-1d01-43dc-b446-ecb64607140b,annular.institute,available,5.98,37.98,high,low,7,namecheap,,,
+aea2c87c-1d01-43dc-b446-ecb64607140b,annular.institute,available,5.98,37.98,medium,low,7,namecheap,,,
 28ebcc9f-b686-49c9-98d6-e4db9fe2f648,looking.institute,available,9.99,27.49,high,low,7,namesilo,,,25/09/2026 14:19
 dde9638c-2ec0-4064-a131-a180721eb0e6,conscience.institute,available,9.99,,high,low,10,name.com,,,
 a66721f9-a361-466e-8d7a-2848a67c21f2,drab.institute,available,5.98,37.98,medium,low,4,namecheap,,,14/08/2026 11:43
@@ -205,7 +211,7 @@ e7364873-d14c-472f-aa9b-7c9923e8a15b,stationary.institute,available,5.98,37.98,h
 25d0b933-639d-4ec8-b56f-13b178febd2f,ambrose.institute,available,9.99,27.49,high,low,7,namesilo,,,18/09/2026 17:22
 54d8d674-64c4-4dd5-ac79-ab8a5e4861f7,lindsay.institute,available,9.99,,high,low,7,name.com,,,
 14e8c8aa-6a01-4207-995f-c9e20cf3c286,ttyl.institute,available,9.99,,medium,low,4,name.com,,,
-fc38b2ff-a58d-4d5f-9ed1-d661710f349f,naif.institute,available,5.98,37.98,high,low,4,namecheap,,,03/09/2026 12:52
+fc38b2ff-a58d-4d5f-9ed1-d661710f349f,naif.institute,available,5.98,37.98,medium,low,4,namecheap,,,03/09/2026 12:52
 9652a60e-203d-4b34-9fc6-9b9c61bb23ee,cheetos.institute,available,9.99,27.49,high,low,7,namesilo,,,21/09/2026 04:04
 18d1af53-c574-4e54-ae9d-c7cb8fc26b0f,uppermost.institute,available,5.98,37.98,medium,low,9,namecheap,,,11/09/2026 17:48
 4a366fa5-1fee-41e8-9a5d-9585fdd2196a,bluff.institute,available,5.98,37.98,high,low,5,namecheap,,,10/08/2026 16:13
@@ -221,14 +227,14 @@ e003d276-2e42-4d65-a857-fc58efea6421,allmouth.institute,available,9.99,27.49,med
 9274364b-3a80-407f-87d2-0228f064d684,later.institute,available,9.99,27.49,high,low,5,namesilo,,,21/09/2026 22:11
 38da0f03-da62-45d6-a67c-5f51ff953349,ssi.institute,available,9.99,,high,low,3,name.com,,,
 cdeff2cf-f3fc-48c6-a9e0-dff62ea5b9e9,chemic.institute,available,5.98,37.98,medium,low,6,namecheap,,,12/08/2026 04:12
-56ba1ccd-90f2-4adb-b65b-77802e9958fb,unknowing.institute,available,5.98,37.98,high,low,9,namecheap,,,12/09/2026 14:22
+56ba1ccd-90f2-4adb-b65b-77802e9958fb,unknowing.institute,available,5.98,37.98,medium,low,9,namecheap,,,12/09/2026 14:22
 ea6e5dd4-c664-43bf-97bb-1ce397d510e8,generous.institute,available,5.98,37.98,high,low,8,namecheap,,,18/08/2026 21:29
 7f6f685e-0514-4d28-a4c7-db24123d1dce,poem.institute,available,5.98,37.98,high,low,4,namecheap,,,25/09/2026 09:59
 213d8e5d-7f39-4756-a030-cd317ff18405,mural.institute,available,5.98,37.98,high,low,5,namecheap,,,03/09/2026 11:00
 9c44fa32-d558-4b17-a203-5611f6fc9813,outcome.institute,available,9.99,,high,low,7,name.com,,,
 51e70ae3-a07f-419e-86d9-09bd28519ed1,winfred.institute,available,,,medium,low,7,,,,19/09/2026 19:23
 4b0f572d-a733-453f-9b2c-b3736f024fed,stunner.institute,available,5.98,37.98,high,low,7,namecheap,,,22/08/2026 16:40
-85c09186-f01a-40c3-ab08-7cd30bfbf50a,grouped.institute,available,5.98,37.98,high,low,7,namecheap,,,20/08/2026 20:22
+85c09186-f01a-40c3-ab08-7cd30bfbf50a,grouped.institute,available,5.98,37.98,medium,low,7,namecheap,,,20/08/2026 20:22
 071cda93-97a5-4d5e-bd8d-5c7e0b868611,warming.institute,available,5.98,37.98,high,low,7,namecheap,,,11/08/2026 14:09
 cb9087d8-5813-440c-9990-a787737ec74e,athenaeum.institute,available,5.98,37.98,high,low,9,namecheap,,,20/09/2026 20:40
 6c508f57-db9c-482d-9dfb-731f84a34731,zoftig.institute,available,5.98,37.98,medium,low,6,namecheap,,,13/09/2026 14:58
@@ -238,16 +244,16 @@ da100647-9007-4159-b0e0-ced87b3af987,trounce.institute,available,5.98,37.98,medi
 80ca207d-9e51-4827-905d-6fc35113e0ad,dominic.institute,available,9.99,27.49,high,low,7,namesilo,,,27/09/2026 03:45
 a859164d-ad0f-4e87-ba64-74a855227784,substrates.institute,available,5.98,37.98,medium,low,10,namecheap,,,25/09/2026 21:45
 adf51639-8a98-4be4-87f9-beb53910bbf3,graphite.institute,available,9.99,27.49,high,low,8,namesilo,,,24/09/2026 01:02
-0a76f523-a05a-45a3-ad44-b8ab42fc8d84,emblazon.institute,available,9.99,27.49,high,low,8,namesilo,,,24/09/2026 05:09
+0a76f523-a05a-45a3-ad44-b8ab42fc8d84,emblazon.institute,available,9.99,27.49,medium,low,8,namesilo,,,24/09/2026 05:09
 c0550b2f-c235-4bca-a06c-43f14f38b2a6,shops.institute,available,9.99,27.49,high,low,5,namesilo,,,18/09/2026 06:22
 32a3b7e9-6999-4b4e-a881-480a32fbd658,payoff.institute,available,9.99,,high,low,7,name.com,,,
 7a826095-f700-45a0-b15c-18d56149457a,germs.institute,available,9.99,27.49,low,low,5,namesilo,,,20/09/2026 10:09
-772bdf20-9238-4666-ad23-c2903be23372,hump.institute,available,9.99,27.49,high,low,4,namesilo,,,24/09/2026 11:03
+772bdf20-9238-4666-ad23-c2903be23372,hump.institute,available,9.99,27.49,medium,low,4,namesilo,,,24/09/2026 11:03
 73a583fd-4118-4849-a0d9-50d6bc3cca22,february.institute,available,9.99,,high,low,8,name.com,,,
 ed71b61c-0ee2-4f6f-8ee5-0953ca2527ce,shrewd.institute,available,5.98,37.98,high,low,6,namecheap,,,22/09/2026 10:37
 a007ca12-e8c3-402b-b8a1-3df6087dcd06,gregarious.institute,available,5.98,37.98,high,low,10,namecheap,,,20/08/2026 19:56
 99bdc40d-89ce-4c4e-8103-a48825e6a47f,clinics.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 12:34
-ef061165-dcb7-4608-963b-89374ae69cee,ruined.institute,available,9.99,,high,low,6,name.com,,,
+ef061165-dcb7-4608-963b-89374ae69cee,ruined.institute,available,21.2,21.2,medium,low,6,cloudflare,,,27/09/2026 16:41
 ea27a399-ec7b-482a-8d2d-0ec7f35029e1,ruffian.institute,available,5.98,37.98,medium,low,7,namecheap,,,11/08/2026 08:41
 23b70ced-3351-4cf5-a7fe-6654c912d270,freddie.institute,available,9.99,27.49,high,low,7,namesilo,,,26/09/2026 03:15
 2c7ff97b-5975-4c1b-b217-e982cfb5a04f,xxvi.institute,available,9.99,27.49,medium,low,4,namesilo,,,21/09/2026 12:52
@@ -272,11 +278,12 @@ fe7ebd21-f82c-4510-bc17-7bdcd6bfec0a,dan.institute,premium,23.6,23.6,high,medium
 eb2fe7a8-3a62-4858-af84-827e6472eb61,finicky.institute,available,5.98,37.98,medium,low,7,namecheap,,,18/08/2026 04:58
 44191605-8abf-478c-903d-62d387deb391,auk.institute,available,9.99,27.49,medium,low,3,namesilo,,,21/09/2026 04:07
 91322e28-56b9-4624-bc34-71e7c18cad27,ascendance.institute,available,9.99,27.49,high,low,10,namesilo,,,20/09/2026 13:03
-aebb0d47-f286-46e3-984d-7f0e9449626d,choose.institute,available,9.99,,high,low,6,name.com,,,
-43d1c0dc-7ae7-48a5-84c7-e58e5f6076ac,brooding.institute,available,5.98,37.98,high,low,8,namecheap,,,11/08/2026 05:52
+aebb0d47-f286-46e3-984d-7f0e9449626d,choose.institute,available,7.71,22.69,high,low,6,dynadot,,,27/09/2026 19:41
+43d1c0dc-7ae7-48a5-84c7-e58e5f6076ac,brooding.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/08/2026 05:52
 3b2780fe-5e4b-47f2-b9d9-96e530c2f666,tolerate.institute,available,9.99,27.49,high,low,8,namesilo,,,24/09/2026 10:45
-e5bf82b2-26fc-41bd-a587-94dcbb0f22ae,undoubtedly.institute,available,9.99,,high,low,11,name.com,,,
-aff04c3d-a63a-4aa3-8344-575341deca31,nineteenth.institute,available,5.98,37.98,high,low,10,namecheap,,,
+8f459138-e8d7-46e6-9597-2c385c3257ca,bloch.institute,available,5.98,37.98,medium,low,5,namecheap,,,28/09/2026 00:50
+e5bf82b2-26fc-41bd-a587-94dcbb0f22ae,undoubtedly.institute,available,9.99,,medium,low,11,name.com,,,
+aff04c3d-a63a-4aa3-8344-575341deca31,nineteenth.institute,available,5.98,37.98,medium,low,10,namecheap,,,
 d31ca533-361c-40c0-a528-98a7acaa112a,headteacher.institute,available,9.99,,high,low,12,name.com,,,
 5a41d738-05fa-42c9-8a88-f6760bd767c6,abiding.institute,available,9.99,27.49,high,low,7,namesilo,,,21/09/2026 13:52
 50d39617-8485-47a0-af52-e6b6108c2a33,plentiful.institute,available,9.99,27.49,high,low,9,namesilo,,,27/09/2026 04:16
@@ -287,7 +294,7 @@ fce84244-e11e-4755-8ea1-6ba2e05b3813,trailer.institute,available,5.98,37.98,high
 c953af3d-1d34-4e6d-a04e-ad83884f0220,offbeat.institute,available,5.98,37.98,high,low,7,namecheap,,,17/08/2026 22:21
 cab18896-bda6-41ce-b971-8118bce4eb69,cathodic.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/08/2026 21:56
 0d796457-d917-4fef-99fe-dab14d9806c9,reacted.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 00:48
-5cffb652-685a-44a5-861c-d453b3882195,apolitical.institute,available,5.98,37.98,high,low,10,namecheap,,,06/08/2026 02:02
+5cffb652-685a-44a5-861c-d453b3882195,apolitical.institute,available,5.98,37.98,medium,low,10,namecheap,,,06/08/2026 02:02
 bb6749b1-f107-4ac2-a13a-c69fd2c9ff2d,adenovirus.institute,available,9.99,27.49,medium,low,10,namesilo,,,17/09/2026 07:41
 a0766bf2-4a56-4e31-8bfe-07470386965c,amaurosis.institute,available,5.98,37.98,medium,low,9,namecheap,,,18/09/2026 16:17
 9a2bc145-f6be-49bf-9954-d3f650a20b40,condign.institute,available,5.98,37.98,medium,low,7,namecheap,,,12/08/2026 20:26
@@ -298,8 +305,8 @@ a9887ff4-2f37-4956-b8f2-3f5024741a61,bravely.institute,available,5.98,37.98,high
 b4bbe31f-d274-4d94-87d1-2c9dac0c2091,autumn.institute,available,9.99,,high,low,6,name.com,,,
 56b789b2-e4b5-4460-96ee-dc6348f6f0c3,glamorous.institute,available,5.98,37.98,high,low,9,namecheap,,,19/08/2026 00:15
 2ff13bce-1f4d-40d6-8b99-6a75249d8150,rejected.institute,available,9.99,27.49,medium,low,8,namesilo,,,25/09/2026 11:50
-10202f71-0ba9-4d20-9712-2cf9489f1480,rarely.institute,available,5.98,37.98,high,low,6,namecheap,,,15/09/2026 22:32
-58deea0b-00a7-42db-89aa-8af9f4a7471d,subtle.institute,available,9.99,,high,low,6,name.com,,,
+10202f71-0ba9-4d20-9712-2cf9489f1480,rarely.institute,available,5.98,37.98,medium,low,6,namecheap,,,15/09/2026 22:32
+58deea0b-00a7-42db-89aa-8af9f4a7471d,subtle.institute,available,13.99,47.99,high,low,6,godaddy,,,28/09/2026 01:48
 fac1ebff-d052-4a35-a35b-feb1bb4591f2,breast.institute,available,5.98,37.98,high,low,6,namecheap,,,24/09/2026 08:29
 b55ee762-faac-4d40-a9d7-63ebbbfa30d4,beater.institute,available,5.98,37.98,high,low,6,namecheap,,,22/09/2026 21:38
 6a7c7d3e-c89d-4775-b78c-17cbe462a1db,baronet.institute,available,9.99,27.49,high,low,7,namesilo,,,22/09/2026 07:28
@@ -309,14 +316,14 @@ aeb7ae87-51c4-4c7e-a437-d4fde4626173,corroded.institute,available,5.98,37.98,med
 f0e16967-42d2-476a-83bb-674f92dfa540,stoically.institute,available,9.99,27.49,medium,low,9,namesilo,,,16/09/2026 07:14
 bccb0758-be91-422b-90df-155849c630a0,enviable.institute,available,9.99,27.49,high,low,8,namesilo,,,24/09/2026 14:16
 d3cd44a2-0285-4411-b020-a286ad9331f3,girls.institute,available,9.99,27.49,high,low,5,namesilo,,,16/09/2026 23:49
-bef378af-8268-4439-a3de-fc2c84b4c1c4,censored.institute,available,5.98,37.98,high,low,8,namecheap,,,11/08/2026 23:47
+bef378af-8268-4439-a3de-fc2c84b4c1c4,censored.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/08/2026 23:47
 e9128095-8be7-4f4c-829b-713d7646263d,unbending.institute,available,5.98,37.98,medium,low,9,namecheap,,,12/09/2026 01:48
-24d3385d-26e5-4993-a5d6-b16df0597899,armour.institute,available,9.99,27.49,high,low,6,namesilo,,,20/09/2026 07:22
+24d3385d-26e5-4993-a5d6-b16df0597899,armour.institute,available,9.99,27.49,medium,low,6,namesilo,,,20/09/2026 07:22
 4d9b20d1-083f-4517-b26d-e7eb96802e21,lxxxii.institute,available,5.98,37.98,medium,low,6,namecheap,,,
 85bfdb88-95f4-46ec-969c-f298c68de71e,pip.institute,premium,23.6,23.6,high,low,3,namesilo,,,13/09/2026 13:22
 2c4e7c6a-7e0e-462b-a8a6-763c5ccfa501,delusional.institute,available,5.98,37.98,medium,low,10,namecheap,,,14/08/2026 00:51
 1133f082-79d0-459d-8771-bcd744891376,grass.institute,available,9.99,,high,low,5,name.com,,,
-d8e0fde3-719d-4fa0-ab05-c50a4ba0e32e,nuremberg.institute,available,9.99,27.49,high,low,9,namesilo,,,25/09/2026 23:53
+d8e0fde3-719d-4fa0-ab05-c50a4ba0e32e,nuremberg.institute,available,9.99,27.49,medium,low,9,namesilo,,,25/09/2026 23:53
 40a0b5cf-d3d0-450a-851a-59418126665d,empowering.institute,available,9.99,,high,low,10,name.com,,,
 0039c732-bf9d-4f18-9bdf-cfe0d5e6c8ef,loafer.institute,available,5.98,37.98,medium,low,6,namecheap,,,14/08/2026 14:12
 2341ce4f-8332-45c1-ad74-b65480f0cbef,mastercard.institute,available,,,high,medium,10,,,,
@@ -341,6 +348,7 @@ cfea8e91-77ef-455f-a408-c1881979eb07,tracking.institute,available,9.99,,high,low
 08acd571-a275-418f-b2bb-6472c004b1c7,isentropic.institute,available,5.98,37.98,medium,low,10,namecheap,,,22/08/2026 10:44
 c729ebb8-1efb-4c93-9454-935ff63d5df1,confucian.institute,available,5.98,37.98,high,low,9,namecheap,,,12/08/2026 21:15
 3eea32f6-b33f-40b8-b3af-6701c4eeb458,brim.institute,available,9.99,27.49,high,low,4,namesilo,,,24/09/2026 10:24
+b3bf9ee6-9139-490c-9de7-37aac4ad2193,lausanne.institute,available,7.71,22.69,high,low,8,dynadot,,,27/09/2026 14:41
 d67a7c24-86aa-4c8c-8b55-ec741c9eaaee,careful.institute,available,9.99,27.49,high,low,7,namesilo,,,23/09/2026 12:50
 fabbaced-02d5-4a8e-bc51-67ab452d5af3,ottoman.institute,available,5.98,37.98,high,low,7,namecheap,,,04/09/2026 18:38
 df46c047-bc62-4ef6-95c3-9653ee87d2c0,astounding.institute,available,9.99,27.49,high,low,10,namesilo,,,22/09/2026 10:29
@@ -350,14 +358,14 @@ e3965b02-fa97-4a77-b3ad-b7271f2bb46c,roundel.institute,available,9.99,27.49,medi
 e2581b78-0085-45d2-88b6-4ba0ad830245,ads.institute,premium,28,28,high,medium,3,namecheap,,,
 87116363-f789-4e05-a87a-cbd1b0fefbf9,acetate.institute,available,9.99,27.49,high,low,7,namesilo,,,17/09/2026 00:03
 ea19e4f4-e821-47d7-bf31-7ad54beac6cb,taipeh.institute,available,9.99,27.49,medium,low,6,namesilo,,,24/09/2026 12:26
-28a7844b-ee52-42cf-844e-3d86a1399c21,essayer.institute,available,9.99,27.49,high,low,7,namesilo,,,21/09/2026 01:22
+28a7844b-ee52-42cf-844e-3d86a1399c21,essayer.institute,available,9.99,27.49,medium,low,7,namesilo,,,21/09/2026 01:22
 4e16a4eb-82c3-4477-90fe-e471cc49af2f,bound.institute,available,9.99,27.49,high,low,5,namesilo,,,22/09/2026 07:27
 c951689e-3633-4b80-bf66-d29d497646bd,attending.institute,available,5.98,37.98,high,low,9,namecheap,,,21/09/2026 01:25
 94ea4e1f-63f6-495d-90fe-689f0e748b18,paced.institute,available,9.99,27.49,medium,low,5,namesilo,,,18/09/2026 10:44
 46bd95ff-3b9d-4a81-b69e-3cb599af92c8,videogames.institute,available,13.99,35.99,medium,low,11,name.com,,,23/09/2026 20:46
 503fccad-ad59-46b5-9c07-9143df7a4b1e,aigrette.institute,available,5.98,37.98,medium,low,8,namecheap,,,17/09/2026 20:55
 47870840-6f14-4fdf-8b14-c63bd3f60555,question.institute,available,9.99,27.49,high,low,8,namesilo,,,25/09/2026 10:22
-84d06c33-cb1a-499e-b26a-06f2340e5c0d,gusty.institute,available,5.98,37.98,high,low,5,namecheap,,,20/08/2026 21:10
+84d06c33-cb1a-499e-b26a-06f2340e5c0d,gusty.institute,available,5.98,37.98,medium,low,5,namecheap,,,20/08/2026 21:10
 7984b981-0659-4663-9ede-56cd5512714d,aztecan.institute,available,9.99,27.49,high,low,7,namesilo,,,21/09/2026 11:37
 981b4104-ea03-4108-87ac-334cc935626d,eolian.institute,available,5.98,37.98,medium,low,6,namecheap,,,
 0c481a5a-cb37-4d8a-8a36-85b3b9a31483,chechen.institute,available,5.98,37.98,high,low,7,namecheap,,,12/08/2026 03:34
@@ -369,6 +377,7 @@ f7926a96-2ab9-474d-90ad-9d5f6abcac39,cod.institute,premium,23.6,23.6,high,low,3,
 dd2cb6c8-e08b-4e1a-863c-a01e0bce1880,shoot.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 04:18
 ca12aa48-a69d-4786-b91c-74bc1666ce22,apply.institute,available,9.99,27.49,high,low,5,namesilo,,,23/09/2026 08:15
 33263661-6f77-49b9-9af8-01ba9f133ef4,lesbian.institute,available,5.98,37.98,high,low,7,namecheap,,,23/08/2026 00:15
+70ebcb5d-029d-41be-a7e7-eec9a3d1ae75,skipper.institute,available,9.99,27.49,high,low,7,namesilo,,,28/09/2026 03:03
 3ee53cf6-8d65-4990-9b2e-e2c36228d077,collegiate.institute,available,5.98,37.98,high,low,10,namecheap,,,12/08/2026 17:08
 133e3f1e-d3dd-4687-ba16-5551c046281a,acedia.institute,available,5.98,37.98,medium,low,6,namecheap,,,16/09/2026 23:26
 72cc35ea-1808-44a5-a014-5820f639624f,francis.institute,available,9.99,27.49,high,low,7,namesilo,,,25/09/2026 13:36
@@ -387,25 +396,25 @@ b6355600-294a-483b-a417-a4cf27e70071,ritual.institute,available,5.98,37.98,high,
 9f662fff-55d8-4f38-a70f-cce22bd90e44,flowery.institute,available,5.98,37.98,high,low,7,namecheap,,,18/08/2026 09:09
 202299b9-9a16-4152-acb2-e91eb558b444,showing.institute,available,5.98,37.98,high,low,7,namecheap,,,25/09/2026 10:36
 a06a5654-9fc8-4a12-9957-a5f5ae68643c,barouche.institute,available,5.98,37.98,medium,low,8,namecheap,,,22/09/2026 07:43
-676a7f8b-fed7-4962-ab24-67e3741eb2d7,allentown.institute,available,5.98,37.98,high,low,9,namecheap,,,18/09/2026 10:52
+676a7f8b-fed7-4962-ab24-67e3741eb2d7,allentown.institute,available,5.98,37.98,medium,low,9,namecheap,,,18/09/2026 10:52
 ac6921b0-3534-47e6-83bb-f8f866ff3b59,unsold.institute,available,5.98,37.98,medium,low,6,namecheap,,,12/09/2026 20:17
 df90210d-f2e6-446c-ac80-22f8609aa0fd,snaps.institute,available,9.99,27.49,medium,low,5,namesilo,,,18/09/2026 11:55
 3da08dc2-c694-457a-8dac-8348523a5f42,calando.institute,available,5.98,37.98,medium,low,7,namecheap,,,11/08/2026 13:34
 9e65bd03-c7f0-4cd1-9ed2-802560cb06f6,wavell.institute,available,9.99,27.49,medium,low,6,namesilo,,,20/09/2026 02:03
-97209cf0-9d38-49c2-9fa4-4594e85eb548,assault.institute,available,9.99,27.49,high,low,7,namesilo,,,20/09/2026 15:48
+97209cf0-9d38-49c2-9fa4-4594e85eb548,assault.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 15:48
 49cb806c-826d-4a86-9723-ff330f97d113,provable.institute,available,5.98,37.98,high,low,8,namecheap,,,09/09/2026 04:24
 da3c3d8b-570a-4818-9419-435ec35e7caf,fabrication.institute,available,5.98,37.98,high,low,11,namecheap,,,25/09/2026 19:26
 f3414646-396e-4d4f-a19c-5e2a4dd96727,foaming.institute,available,5.98,37.98,high,low,7,namecheap,,,11/08/2026 07:18
-4413be5b-ccd0-4205-b418-7575845cced8,autoclave.institute,available,9.99,27.49,high,low,9,namesilo,,,21/09/2026 06:03
+4413be5b-ccd0-4205-b418-7575845cced8,autoclave.institute,available,9.99,27.49,medium,low,9,namesilo,,,21/09/2026 06:03
 fbb9f6e1-d63a-48c0-84fe-68a718540f68,mutagenic.institute,available,5.98,37.98,medium,low,9,namecheap,,,03/09/2026 11:37
 b039adb5-982c-42dd-96a8-78d1922ac1c7,mansard.institute,available,5.98,37.98,medium,low,7,namecheap,,,24/08/2026 15:30
 0fc01fc5-0554-4215-8b3e-f51dd83cdf04,lavish.institute,available,5.98,37.98,high,low,6,namecheap,,,22/08/2026 21:07
 7d3dde3d-d7a4-4696-a328-a55c76436631,disjointed.institute,available,5.98,37.98,medium,low,10,namecheap,,,14/08/2026 11:16
 c560b4f8-ab90-4932-9270-80628dd81851,zeal.institute,available,9.99,27.49,high,low,4,namesilo,,,20/09/2026 03:17
-49e0e115-760b-4697-b83e-013bf4d275f8,boreas.institute,available,5.98,37.98,high,low,6,namecheap,,,03/09/2026 21:36
+49e0e115-760b-4697-b83e-013bf4d275f8,boreas.institute,available,5.98,37.98,medium,low,6,namecheap,,,03/09/2026 21:36
 5482ca50-a646-42cf-a789-d2a7bc8db858,carrying.institute,available,9.99,,high,low,8,name.com,,,
 e0c3d127-4cec-4c1f-8085-33e966ecbd7f,theropod.institute,available,5.98,37.98,medium,low,8,namecheap,,,23/09/2026 19:39
-8fe777a3-b57f-4d33-b1cc-61b803137bbc,absurdity.institute,available,9.99,27.49,high,low,9,namesilo,,,16/09/2026 18:39
+8fe777a3-b57f-4d33-b1cc-61b803137bbc,absurdity.institute,available,9.99,27.49,medium,low,9,namesilo,,,16/09/2026 18:39
 31063cfb-716c-4022-acb6-c73c35e16106,shun.institute,available,5.98,37.98,high,low,4,namecheap,,,24/09/2026 02:00
 717b3ceb-ec72-48eb-9d8f-5e5c41766157,bedpost.institute,available,9.99,27.49,high,low,7,namesilo,,,22/09/2026 23:29
 55a2853f-0245-45c1-89f9-5b16b21e71ca,harriman.institute,available,9.99,27.49,medium,low,8,namesilo,,,21/09/2026 09:11
@@ -413,12 +422,14 @@ c2b29683-faeb-43fc-a946-085e51781b5e,abator.institute,available,9.99,27.49,mediu
 64338b63-0de2-4e0d-9cf0-5a3573cd4b95,yell.institute,available,9.99,,medium,low,4,name.com,,,
 f8a80fdd-f241-4066-b906-6fef589c76ce,chant.institute,available,9.99,27.49,high,low,5,namesilo,,,24/09/2026 13:41
 7b2524f6-c3d6-4de2-b1bd-b8a1e2b860f8,heartbeat.institute,available,5.98,37.98,high,low,9,namecheap,,,22/08/2026 07:28
-b4014a81-7d5f-46f6-a85e-125e0c6b7251,engineering.institute,premium,260,260,high,low,11,namecheap,,,25/09/2026 15:11
-ad56b6b2-273e-4c66-acf8-04a0ba96d7d0,judges.institute,available,9.99,,high,low,6,name.com,,,
+b4014a81-7d5f-46f6-a85e-125e0c6b7251,engineering.institute,premium,260,260,high,low,11,namecheap,,,28/09/2026 02:50
+ef538d19-546d-4320-ab35-981842917dfd,transferred.institute,available,9.99,27.49,medium,low,11,namesilo,,,27/09/2026 22:38
+ad56b6b2-273e-4c66-acf8-04a0ba96d7d0,judges.institute,available,9.99,,medium,low,6,name.com,,,
 37bb3c6d-8f2f-462c-81a5-d531744653d1,elite.institute,resell,,,high,medium,5,Dynadot Inc,22/02/2026 17:00,22/02/2027 17:00,26/09/2026 05:47
 73827f07-efab-42aa-a950-3c67cbadaf2b,lowlife.institute,available,5.98,37.98,medium,low,7,namecheap,,,11/08/2026 09:22
+d6bb6a47-d430-4980-a1d7-f7a25a48de5e,nicholas.institute,available,9.99,27.49,high,low,8,namesilo,,,28/09/2026 02:29
 216f44ab-f46a-4d55-8921-b9d030ae27be,commotion.institute,available,9.99,27.49,high,low,9,namesilo,,,24/09/2026 16:36
-5de23077-53a5-4cc9-bd92-7eeb1eda4b00,faces.institute,available,9.99,,high,low,5,name.com,,,
+5de23077-53a5-4cc9-bd92-7eeb1eda4b00,faces.institute,available,9.99,,medium,low,5,name.com,,,
 fa4c792e-eb93-496b-b1a5-38a0089a87bf,businessman.institute,available,9.99,27.49,high,low,11,namesilo,,,19/09/2026 04:56
 b7d008a7-b597-4910-8c95-ff53ac969569,aerosol.institute,available,9.99,27.49,high,low,7,namesilo,,,17/09/2026 13:15
 876dc969-8712-4b74-92cb-b2a109ea9301,inaccurate.institute,available,5.98,37.98,medium,low,10,namecheap,,,22/08/2026 00:09
@@ -429,12 +440,12 @@ eeb020ff-fd3f-4da9-babe-f4b460a5b42c,offensive.institute,available,5.98,37.98,hi
 b4b4586d-9a84-4187-b355-a0c44d42bb8e,vastly.institute,available,5.98,37.98,high,low,6,namecheap,,,15/09/2026 01:56
 35b9cd25-66d3-4282-ac3d-2b097427db11,concretely.institute,available,5.98,37.98,medium,low,10,namecheap,,,14/09/2026 08:12
 2fa550b1-2973-4508-b1bb-4cd37442e33f,worried.institute,available,9.99,27.49,high,low,7,namesilo,,,24/09/2026 11:23
-c02a691e-8850-4717-b33f-2bfafb3f2d1a,equipment.institute,available,9.99,27.49,high,low,9,namesilo,,,25/09/2026 10:35
+c02a691e-8850-4717-b33f-2bfafb3f2d1a,equipment.institute,available,5.38,21.94,high,low,9,spaceship,,,28/09/2026 02:33
 0a1599ba-c494-4cfb-9c5c-43d7aae2f9b0,acerb.institute,available,5.98,37.98,medium,low,5,namecheap,,,
 e5acfeb2-96dc-4b6f-8771-7028781821aa,formidable.institute,available,5.98,37.98,high,low,10,namecheap,,,18/08/2026 12:12
-44311f3c-c354-4b84-accc-8772cfcf3835,profitably.institute,available,5.98,37.98,high,low,10,namecheap,,,14/09/2026 20:29
+44311f3c-c354-4b84-accc-8772cfcf3835,profitably.institute,available,5.98,37.98,medium,low,10,namecheap,,,14/09/2026 20:29
 5c637f8e-19e2-40d3-8a99-b1217341ae07,unprompted.institute,available,5.98,37.98,medium,low,10,namecheap,,,21/08/2026 23:28
-fdf6eac3-6b3c-4199-b396-15991b366519,weaponry.institute,available,9.99,27.49,high,low,8,namesilo,,,20/09/2026 07:43
+fdf6eac3-6b3c-4199-b396-15991b366519,weaponry.institute,available,9.99,27.49,medium,low,8,namesilo,,,20/09/2026 07:43
 0ea6fbb3-b35c-46b5-ba28-0fda62b41e52,middling.institute,available,5.98,37.98,medium,low,8,namecheap,,,22/08/2026 13:46
 fcbbdf97-b18d-47dd-8c72-6e275ea00b4e,parented.institute,available,5.98,37.98,high,low,8,namecheap,,,08/09/2026 01:16
 86aef015-21ed-4e29-bfdf-bc33b1b75f8e,wheeled.institute,available,5.98,37.98,high,low,7,namecheap,,,13/09/2026 11:20
@@ -475,7 +486,7 @@ a992b579-9659-441c-9e7e-2422ad6fe101,agio.institute,available,5.98,37.98,medium,
 dad86607-3d1f-401c-b264-437c75809615,screenshots.institute,available,9.99,27.49,medium,low,11,namesilo,,,20/09/2026 11:10
 140a1c23-bd9c-4dcc-a859-5c7ab0180632,bollock.institute,available,9.99,27.49,medium,low,7,namesilo,,,21/09/2026 23:08
 ca6b787b-33f7-4297-bf6e-f4c71bd1e32a,boris.institute,available,5.98,37.98,high,low,5,namecheap,,,25/09/2026 20:39
-e0e75e76-6e24-4f64-908d-85eb42a94318,outfitted.institute,available,5.98,37.98,high,low,9,namecheap,,,04/09/2026 19:24
+e0e75e76-6e24-4f64-908d-85eb42a94318,outfitted.institute,available,5.98,37.98,medium,low,9,namecheap,,,04/09/2026 19:24
 841653c6-394e-41bb-8807-c4bfa8917841,bey.institute,available,5.98,37.98,medium,low,3,namecheap,,,23/09/2026 12:10
 e107269b-4709-455c-9789-a461e8240319,fagot.institute,available,5.98,37.98,medium,low,5,namecheap,,,09/09/2026 07:59
 4696a595-079e-44bf-8db7-3d704a3127eb,hua.institute,available,9.99,27.49,high,low,3,namesilo,,,18/09/2026 01:18
@@ -488,7 +499,8 @@ afd1f7be-e5bd-41e0-8cf5-ab577929d3bc,algae.institute,available,9.99,27.49,high,l
 573fa2dc-bc99-4430-9d06-caa4786ce7fc,uut.institute,available,9.99,27.49,medium,low,3,namesilo,,,20/09/2026 22:17
 7c42e8a2-e73d-4c48-b5bd-4fc6f39fad25,eightfold.institute,available,5.98,37.98,medium,low,9,namecheap,,,15/08/2026 21:27
 e6bc16a6-2350-43b5-bc2f-e4fecfbe0d84,untypical.institute,available,5.98,37.98,medium,low,9,namecheap,,,07/08/2026 16:10
-a056eb89-4316-4387-ab72-54a77a4eff44,onside.institute,available,5.98,37.98,high,low,6,namecheap,,,04/09/2026 15:17
+a056eb89-4316-4387-ab72-54a77a4eff44,onside.institute,available,5.98,37.98,medium,low,6,namecheap,,,04/09/2026 15:17
+d50c74ff-4cd0-40f0-b782-718d2b4dad41,colby.institute,available,5.38,21.94,high,low,5,spaceship,,,28/09/2026 00:47
 3c273104-4df3-4ed0-be6a-12fb1b6def28,crunch.institute,available,5.98,37.98,high,low,6,namecheap,,,24/09/2026 19:53
 6c5518f0-9e85-4f49-8448-cf96b8a6cd71,rejoin.institute,available,9.99,,high,low,6,name.com,,,
 59115fdb-a4fa-4d6f-b8e2-f7669423cabb,arrests.institute,available,5.98,37.98,medium,low,7,namecheap,,,20/09/2026 19:12
@@ -507,8 +519,9 @@ cc2cbbf7-b272-48e5-b3ba-2107c5c27e22,bashful.institute,available,5.98,37.98,high
 feb1f4a1-6e4c-442b-b94a-542accfd118a,quint.institute,available,5.98,37.98,medium,low,5,namecheap,,,
 353773b0-c056-4c98-8eae-cc7ceb0014ab,breakfasts.institute,available,9.99,27.49,medium,low,10,namesilo,,,20/09/2026 13:21
 0b52db3d-da80-4558-99f5-3c1663a30961,abydos.institute,available,5.98,37.98,medium,low,6,namecheap,,,16/09/2026 19:41
+c5e2897b-e8fd-45fa-a61c-49b39b254415,virgil.institute,available,9.99,27.49,high,low,6,namesilo,,,28/09/2026 02:58
 94d3ec5c-4227-4dd0-87d5-e6142ff22f99,teaspoons.institute,available,9.99,27.49,medium,low,9,namesilo,,,19/09/2026 22:48
-d128be93-8323-4bd8-884a-3f5cdea45183,wentworth.institute,available,9.99,27.49,high,low,9,namesilo,,,25/09/2026 21:47
+d128be93-8323-4bd8-884a-3f5cdea45183,wentworth.institute,available,9.99,27.49,medium,low,9,namesilo,,,25/09/2026 21:47
 deb2136d-9d68-46ac-9f8e-a00fece4ea1c,laziness.institute,available,9.99,,medium,low,8,name.com,,,
 3119de67-dcc0-4998-b186-fd87b30ac03e,beaker.institute,available,5.98,37.98,high,low,6,namecheap,,,22/09/2026 19:45
 38e08d35-8d2c-4fe1-be42-e2ff2545c339,bandoneon.institute,available,9.99,27.49,medium,low,9,namesilo,,,22/09/2026 01:29
@@ -523,19 +536,19 @@ bfef61b4-dff3-4f0a-836d-df2def84060a,blether.institute,available,5.98,37.98,medi
 03056e6a-610f-4c12-8ddf-d300824828b4,olsen.institute,available,5.98,37.98,high,low,5,namecheap,,,25/09/2026 12:35
 bfbf91b8-2e80-4dd4-9f8a-10c598549ea8,analytic.institute,available,5.98,37.98,high,low,8,namecheap,,,
 01c0f928-e7b3-4cd4-a971-3f3792c829f6,footed.institute,available,5.98,37.98,medium,low,6,namecheap,,,18/08/2026 10:43
-6f6a37fc-55ef-4e61-913e-d5e40e70be65,georges.institute,available,9.99,27.49,high,low,7,namesilo,,,25/09/2026 15:05
+6f6a37fc-55ef-4e61-913e-d5e40e70be65,georges.institute,available,9.99,27.49,medium,low,7,namesilo,,,25/09/2026 15:05
 748ea4ac-f0fd-4fcc-ab0a-4a832ad878b8,cookie.institute,available,9.99,,high,low,6,name.com,,,
 ef3454cb-19a5-4c74-8383-490570035292,zapotec.institute,available,5.98,37.98,high,low,7,namecheap,,,13/09/2026 15:07
 52734519-e63d-4685-b255-5e3f1abdaa31,lyric.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 15:47
-3ce6310e-0336-4035-97fb-07e4f2556f27,dutiful.institute,available,5.98,37.98,high,low,7,namecheap,,,14/08/2026 21:39
-693d8a41-226b-4fdc-8610-d67844e2143c,bragg.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 21:58
-cdda5e71-d4b8-4141-b2f5-c6b1e2ed87f9,benzine.institute,available,9.99,27.49,high,low,7,namesilo,,,23/09/2026 08:53
+3ce6310e-0336-4035-97fb-07e4f2556f27,dutiful.institute,available,5.98,37.98,medium,low,7,namecheap,,,14/08/2026 21:39
+693d8a41-226b-4fdc-8610-d67844e2143c,bragg.institute,available,9.99,27.49,medium,low,5,namesilo,,,25/09/2026 21:58
+cdda5e71-d4b8-4141-b2f5-c6b1e2ed87f9,benzine.institute,available,9.99,27.49,medium,low,7,namesilo,,,23/09/2026 08:53
 9466239e-6cfc-408b-9ad4-a72e268dd5bd,strapless.institute,available,5.98,37.98,high,low,9,namecheap,,,10/09/2026 21:55
 873c357e-84bd-4e98-84ea-2b0c26016b8f,reveals.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 06:30
 a95d125b-d95e-4bf8-b282-cb3f721a2bf7,singapore.institute,available,,,high,high,9,,,,
 065cf7f6-50e8-4cf6-95f0-398604a6b72b,univalent.institute,available,5.98,37.98,medium,low,9,namecheap,,,12/09/2026 14:00
 04705a0b-e105-426a-a9ab-20eff0a5b01b,tramontana.institute,available,5.98,37.98,medium,low,10,namecheap,,,11/09/2026 18:50
-58897601-48d9-41b1-9248-30c99a125c3e,mammalian.institute,available,5.98,37.98,high,low,9,namecheap,,,24/08/2026 14:19
+58897601-48d9-41b1-9248-30c99a125c3e,mammalian.institute,available,5.98,37.98,medium,low,9,namecheap,,,24/08/2026 14:19
 b9d381bf-42bf-4137-acd0-21946827c52e,anywhere.institute,available,9.99,,high,low,8,name.com,,,
 354683a0-5679-490d-a6ab-efb4ed79970a,okeh.institute,available,5.98,37.98,high,low,4,namecheap,,,03/09/2026 23:21
 d20e4944-9af8-4056-b865-e611cc8c6154,dormant.institute,available,5.98,37.98,high,low,7,namecheap,,,
@@ -544,7 +557,7 @@ c4837389-7f01-47f8-8401-4091cef36f28,lightwood.institute,available,5.98,37.98,me
 bb88a8e5-f50c-4e7c-843e-58ddc4239cae,tenanted.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/09/2026 11:09
 259b5bc1-45a5-49d9-aad6-7d8b956ba1e1,town.institute,available,9.99,,high,low,4,name.com,,,
 a08a6d74-5cd1-408e-8239-79e774cafd64,inapt.institute,available,5.98,37.98,medium,low,5,namecheap,,,21/08/2026 18:51
-21462a45-512b-4005-b6e9-97cc7220be5d,unassuming.institute,available,9.99,,high,low,10,name.com,,,
+21462a45-512b-4005-b6e9-97cc7220be5d,unassuming.institute,available,5.38,21.94,high,low,10,spaceship,,,27/09/2026 13:26
 e1374b0f-af9c-4886-aff7-45c6207c75c3,peaking.institute,available,9.99,,high,low,7,name.com,,,
 9f8d27ec-8e12-4c43-b8e9-00e9e8c0aeb7,montpelier.institute,available,9.99,27.49,medium,low,10,namesilo,,,24/09/2026 12:33
 5a205713-255c-48e7-b844-d124e6c11f14,worked.institute,available,9.99,,high,low,6,name.com,,,
@@ -561,7 +574,7 @@ c7ef8393-07b9-4b9c-9d3d-705bd82098d2,dame.institute,available,5.98,37.98,high,lo
 c05d58c2-e67f-48a8-bfb6-454f79f50278,paraplegic.institute,available,5.98,37.98,medium,low,10,namecheap,,,08/09/2026 01:10
 6291448e-20a1-4480-9351-45586930f310,hyoid.institute,available,5.98,37.98,medium,low,5,namecheap,,,21/08/2026 16:35
 6b96d1a2-1706-4562-9dc0-5421d19e8da5,algolagnia.institute,available,9.99,27.49,medium,low,10,namesilo,,,18/09/2026 07:07
-6f1a432f-a047-45d3-9b95-f274c0fadf36,facile.institute,available,5.98,37.98,high,low,6,namecheap,,,16/08/2026 06:16
+6f1a432f-a047-45d3-9b95-f274c0fadf36,facile.institute,available,5.98,37.98,medium,low,6,namecheap,,,16/08/2026 06:16
 cb08f29f-2c1b-4987-8258-cb26ffee70b5,lucubrate.institute,available,5.98,37.98,high,low,9,namecheap,,,15/08/2026 23:00
 5fcc2956-fd04-4d98-933d-a29795fc4301,jerky.institute,available,5.98,37.98,high,low,5,namecheap,,,06/08/2026 22:03
 8e3b04bd-b811-4d14-85b7-6d9789d44dc9,satiable.institute,available,5.98,37.98,medium,low,8,namecheap,,,09/09/2026 21:37
@@ -578,7 +591,7 @@ d959e2e2-67d0-492b-838b-e98e53818662,harshly.institute,available,5.98,37.98,medi
 a59bb68b-0462-4bea-938b-0fd28502a8fd,stream.institute,resell,,,high,medium,6,,,,27/09/2026 05:33
 5da447b6-eb9d-4134-87c8-52e5eb39ac5c,reduce.institute,available,5.98,37.98,high,low,6,namecheap,,,24/09/2026 08:28
 8caab226-4ee1-4ae8-badd-6f884bf9ba5b,winner.institute,available,9.99,,high,low,6,name.com,,,
-1009162c-94aa-498c-930a-36932bc26719,contested.institute,available,9.99,27.49,high,low,9,namesilo,,,23/09/2026 22:01
+1009162c-94aa-498c-930a-36932bc26719,contested.institute,available,9.99,27.49,medium,low,9,namesilo,,,23/09/2026 22:01
 a68d6807-696c-447d-87ed-94c636587459,powder.institute,available,9.99,27.49,high,low,6,namesilo,,,25/09/2026 23:00
 9df68708-05a3-4722-ab69-e1f703ca0d0d,bigotry.institute,available,9.99,27.49,medium,low,7,namesilo,,,23/09/2026 15:23
 63404a62-164e-4b2e-9166-c3c2f49109b7,assigning.institute,available,9.99,27.49,high,low,9,namesilo,,,20/09/2026 16:26
@@ -589,10 +602,10 @@ f18aba0d-527d-4027-8c82-03dc8503c217,retina.institute,resell,,,high,low,6,"GoDad
 512035ad-5588-42e4-98e8-751ec8d2fa55,banjo.institute,available,9.99,27.49,high,low,5,namesilo,,,22/09/2026 02:11
 84507a5a-66ad-4c16-9fe5-88a78f21de20,basra.institute,available,9.99,27.49,medium,low,5,namesilo,,,22/09/2026 10:33
 65fc9f9c-3051-4162-b508-e9bb4534e3ad,undisputed.institute,available,5.98,37.98,high,low,10,namecheap,,,12/09/2026 05:02
-0054db41-2e2b-4f26-a3dd-aee4a509a3d2,abject.institute,available,5.98,37.98,high,low,6,namecheap,,,
+0054db41-2e2b-4f26-a3dd-aee4a509a3d2,abject.institute,available,5.98,37.98,medium,low,6,namecheap,,,
 bb99d3da-db32-4de0-b8b0-ce8dc34f708f,withdrawal.institute,available,9.99,27.49,high,low,10,namesilo,,,21/09/2026 15:22
 23156965-5d78-4888-ac1b-3d9f0aa2239f,craftsman.institute,available,9.99,27.49,high,low,9,namesilo,,,20/09/2026 11:49
-1e25e514-7140-4dcc-87da-f5eb4ba823e6,passbook.institute,available,9.99,27.49,high,low,8,namesilo,,,22/09/2026 02:44
+1e25e514-7140-4dcc-87da-f5eb4ba823e6,passbook.institute,available,9.99,27.49,medium,low,8,namesilo,,,22/09/2026 02:44
 38bb67fa-ec89-4965-adaf-e00dcc018948,glary.institute,available,5.98,37.98,medium,low,5,namecheap,,,10/08/2026 13:49
 c34cc628-dbd7-48a8-8540-3b8af3ae6384,necrotic.institute,available,5.98,37.98,medium,low,8,namecheap,,,03/09/2026 14:45
 860af09b-6f3b-440e-9344-20db67b6f7fe,absolutist.institute,available,5.98,37.98,high,low,10,namecheap,,,
@@ -608,15 +621,16 @@ eebd58ac-7b7d-4d02-bc3a-6701f2612c11,slips.institute,available,9.99,27.49,high,l
 d862cae4-453f-44d9-bf8c-a6506720efc9,antigram.institute,available,9.99,27.49,low,low,8,namesilo,,,19/09/2026 14:31
 6139fff4-b2ad-432f-a873-337516d8ac8f,henrietta.institute,available,9.99,27.49,high,low,9,namesilo,,,25/09/2026 17:42
 f11dcdf5-3fb8-4f51-85e5-755cd418db5c,supernal.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/09/2026 02:23
-905993c9-be02-41dd-b3bd-8891ce6ceccc,hurry.institute,available,9.99,,high,low,5,name.com,,,
-0672111f-c5e4-48d0-95f0-430a68ec3d7d,retraction.institute,available,13.99,35.99,high,low,10,name.com,,,16/09/2026 15:59
+905993c9-be02-41dd-b3bd-8891ce6ceccc,hurry.institute,available,9.99,27.49,high,low,5,namesilo,,,27/09/2026 17:14
+0672111f-c5e4-48d0-95f0-430a68ec3d7d,retraction.institute,available,13.99,35.99,medium,low,10,name.com,,,16/09/2026 15:59
 2c315f80-bb96-418c-8deb-9e67b1ea98c9,cenozoic.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/08/2026 23:46
 6b3cdc75-199c-4213-a9bb-d7cdb276545d,conjunct.institute,available,5.98,37.98,high,low,8,namecheap,,,12/08/2026 20:08
 45d6f539-d94b-4bee-8507-e3973beb81c8,modern.institute,resell,,,high,low,6,"Sav.com, LLC",13/12/2025 17:50,13/12/2026 17:50,26/09/2026 07:36
 3a09e448-b56e-4eec-8b57-459f81eb8258,jingling.institute,available,5.98,37.98,high,low,8,namecheap,,,08/09/2026 03:33
+99feac34-029e-4692-b9eb-192e4758dcc8,schooling.institute,available,9.99,27.49,high,low,9,namesilo,,,28/09/2026 02:34
 48415c8f-ec1c-4d5f-a26e-36f6c6271bea,magnified.institute,available,5.98,37.98,high,low,9,namecheap,,,24/08/2026 13:08
 d6a4d757-65cd-4ba7-977e-7efd62f73b6b,hungarian.institute,available,5.98,37.98,high,low,9,namecheap,,,21/08/2026 15:39
-2209c96d-8e05-49e7-bb61-15dd4b1bda40,ambiguity.institute,available,5.98,37.98,high,low,9,namecheap,,,18/09/2026 16:43
+2209c96d-8e05-49e7-bb61-15dd4b1bda40,ambiguity.institute,available,5.98,37.98,medium,low,9,namecheap,,,18/09/2026 16:43
 204e5946-fd2e-4007-b0bb-624a3160a374,unfit.institute,available,5.98,37.98,medium,low,5,namecheap,,,12/09/2026 10:23
 968c5133-a8c5-483a-a38f-d6bbf7344d79,blacklist.institute,available,9.99,27.49,high,low,9,namesilo,,,24/09/2026 00:17
 42f89a5c-67e1-439b-9e8e-061fa4e85ace,tenfold.institute,available,5.98,37.98,high,low,7,namecheap,,,14/08/2026 01:44
@@ -628,6 +642,7 @@ fd7c679c-425b-40f2-b744-027f6159a203,flossy.institute,available,5.98,37.98,mediu
 b3decee7-466c-4bc5-b020-70a9afb059dc,skew.institute,available,5.98,37.98,high,low,4,namecheap,,,10/09/2026 09:26
 196d8af9-6f30-48aa-ab13-7813f4bf92a0,tinkly.institute,available,5.98,37.98,medium,low,6,namecheap,,,11/09/2026 16:15
 bb125ba7-2776-4e1a-a4da-0c1d1f744643,palo.institute,available,9.99,27.49,medium,low,4,namesilo,,,27/09/2026 01:51
+422842d9-1271-4635-9d59-00f870d138c3,galicia.institute,available,5.38,21.94,high,low,7,spaceship,,,28/09/2026 01:58
 536ebd55-9cf1-4e83-987d-fa4ef7be7b6d,genital.institute,available,5.98,37.98,medium,low,7,namecheap,,,18/08/2026 21:40
 42508291-48e8-441f-9ca7-758a400c3d50,swishing.institute,available,9.99,27.49,high,low,8,namesilo,,,18/09/2026 03:16
 6340d395-7f13-430c-b64a-e848b8782c9c,monaural.institute,available,5.98,37.98,medium,low,8,namecheap,,,25/08/2026 04:20
@@ -647,10 +662,11 @@ db4b1030-3e66-4aa5-9d7b-e36324b3f068,ears.institute,available,9.99,27.49,medium,
 4fb1bcc5-cabd-4144-a1b9-b93f32c6d721,beryl.institute,available,5.98,37.98,medium,low,5,namecheap,,,23/09/2026 10:23
 d8866f5f-d774-4d0f-af86-5b1fdd3cfe46,begum.institute,available,9.99,27.49,medium,low,5,namesilo,,,23/09/2026 03:01
 c8710d55-c732-4f26-a646-68aa2e41d1ae,sword.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 10:46
+815744df-ffdd-4d8a-8bf3-e4c56195e8a3,ipswich.institute,available,5.38,21.94,high,low,7,spaceship,,,27/09/2026 19:23
 ac67bbbc-90eb-4595-b81d-495b658c4ff0,toe.institute,premium,123.75,,medium,low,3,name.com,,,
-8c7ec607-cdba-4a14-8422-21f8e2b35311,overdress.institute,available,9.99,27.49,high,low,9,namesilo,,,21/09/2026 01:53
+8c7ec607-cdba-4a14-8422-21f8e2b35311,overdress.institute,available,9.99,27.49,medium,low,9,namesilo,,,21/09/2026 01:53
 b81ece2c-df74-4737-82ab-7b86409b9bb6,krypton.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 22:56
-14939837-0a5b-4ee1-894e-e54f235c7d8d,wagons.institute,available,5.98,37.98,high,low,6,namecheap,,,19/09/2026 20:22
+14939837-0a5b-4ee1-894e-e54f235c7d8d,wagons.institute,available,5.98,37.98,medium,low,6,namecheap,,,19/09/2026 20:22
 cdaab017-fc21-4c04-ba52-b4465a858e68,scared.institute,available,5.98,37.98,medium,low,6,namecheap,,,18/08/2026 15:38
 fe1f8d22-bdf5-4eb5-8f51-4317886955ac,era.institute,premium,123.75,,high,medium,3,name.com,,,
 f11198e3-d647-4ee4-ae78-30d12380be72,wholly.institute,available,5.98,37.98,high,low,6,namecheap,,,
@@ -732,7 +748,7 @@ cfe7735f-5667-4083-818a-2b69f9e1bf45,choosey.institute,available,5.98,37.98,medi
 b37f59ca-c26a-477b-80a6-018a6f5f4593,diatonic.institute,available,5.98,37.98,medium,low,8,namecheap,,,14/08/2026 06:21
 a594c986-1f34-44c0-aa66-c8c7668da8c1,merciful.institute,available,5.98,37.98,high,low,8,namecheap,,,24/08/2026 20:34
 49b48e6c-fa25-47be-aa58-e1911bb9906c,baltimore.institute,available,9.99,27.49,high,low,9,namesilo,,,22/09/2026 00:19
-c004d757-e91f-435c-a38e-299b2f4245eb,azolla.institute,available,9.99,27.49,high,low,6,namesilo,,,21/09/2026 11:19
+c004d757-e91f-435c-a38e-299b2f4245eb,azolla.institute,available,9.99,27.49,medium,low,6,namesilo,,,21/09/2026 11:19
 f3880997-65bf-4c0a-9cd9-bc4938da7075,alarmist.institute,available,9.99,27.49,medium,low,8,namesilo,,,18/09/2026 01:59
 40c894b5-48fd-4bdc-8747-ef9da960c803,localised.institute,available,5.98,37.98,medium,low,9,namecheap,,,24/08/2026 08:47
 99651a44-ce68-4395-adc8-6608a80f9d8a,threepenny.institute,available,5.98,37.98,medium,low,10,namecheap,,,10/09/2026 09:08
@@ -748,7 +764,7 @@ da510a1c-4708-4ee6-9572-c3b0e03bf8b0,arccos.institute,available,9.99,27.49,mediu
 3e65bbad-f0ca-403e-b73d-399e0b1a1ba9,deficient.institute,available,5.98,37.98,medium,low,9,namecheap,,,13/08/2026 23:22
 d901b995-b133-425d-88ca-01ea5cc4fe10,walks.institute,available,9.99,27.49,medium,low,5,namesilo,,,25/09/2026 16:37
 9df1e446-f220-4c23-b5bc-f1ce7e20ae99,chubby.institute,available,5.98,37.98,high,low,6,namecheap,,,12/08/2026 07:31
-79ced637-d03c-47f5-b5d1-fb7d889fe382,corking.institute,available,5.98,37.98,high,low,7,namecheap,,,08/08/2026 12:20
+79ced637-d03c-47f5-b5d1-fb7d889fe382,corking.institute,available,5.98,37.98,medium,low,7,namecheap,,,08/08/2026 12:20
 caca7c44-eda4-4ed9-abaf-0f72030bc5ba,unbeatable.institute,available,9.99,27.49,high,low,10,namesilo,,,25/09/2026 11:12
 d2c9f88d-5f04-4a39-ab0c-ac69aaef3748,abide.institute,available,9.99,,high,low,5,name.com,,,
 237000d1-7c6e-495b-9af9-85767fbf48f6,agitating.institute,available,5.98,37.98,medium,low,9,namecheap,,,
@@ -758,8 +774,8 @@ db892541-ee70-4ac0-b710-2c729e38c9a5,funny.institute,available,9.99,27.49,high,l
 0ae0f4a1-89ca-42b1-a3e7-5d8b556f568b,participant.institute,available,9.99,,high,low,11,name.com,,,
 1355c9b7-e896-489b-b89a-2a30449d039a,treble.institute,available,5.98,37.98,high,low,6,namecheap,,,14/08/2026 16:41
 c57878a9-e040-4c7e-9ef2-80a6c0746983,gym.institute,premium,123.75,,high,low,3,name.com,,,
-e9cb8825-8bff-4894-bae0-5519a1fd48e5,armpit.institute,available,9.99,27.49,high,low,6,namesilo,,,20/09/2026 07:34
-073e818a-f232-4605-b754-3b6d95add4c5,eloquently.institute,available,5.98,37.98,high,low,10,namecheap,,,13/09/2026 20:54
+e9cb8825-8bff-4894-bae0-5519a1fd48e5,armpit.institute,available,9.99,27.49,medium,low,6,namesilo,,,20/09/2026 07:34
+073e818a-f232-4605-b754-3b6d95add4c5,eloquently.institute,available,5.98,37.98,medium,low,10,namecheap,,,13/09/2026 20:54
 ff40d191-1537-4b28-abf7-5ce72a977dbe,testy.institute,available,5.98,37.98,medium,low,5,namecheap,,,22/08/2026 10:29
 a48237f3-825a-41ca-9558-f75f7591229b,subocean.institute,available,5.98,37.98,low,low,8,namecheap,,,11/09/2026 00:32
 999be9ed-8395-4b18-b178-06762757446d,dandified.institute,available,13.99,35.99,medium,low,9,name.com,,,13/08/2026 17:01
@@ -775,11 +791,12 @@ f2ce1942-63b1-404d-96e6-86d6916e025c,unfixed.institute,available,5.98,37.98,medi
 46fe71a5-8e75-41d9-826b-51ba6ffad256,arable.institute,available,5.98,37.98,medium,low,6,namecheap,,,06/08/2026 11:14
 65ff02f2-44e4-430b-a6d3-f6a5aad9f283,outlawed.institute,available,5.98,37.98,medium,low,8,namecheap,,,21/08/2026 19:52
 84841246-e67a-4727-b659-5c6154ab86c3,peas.institute,available,5.98,37.98,medium,low,4,namecheap,,,18/09/2026 10:13
-8a10e583-976b-4ddd-a8e5-a265bf18bd7e,revealing.institute,available,9.99,,high,low,9,name.com,,,
+8a10e583-976b-4ddd-a8e5-a265bf18bd7e,revealing.institute,available,21.2,21.2,high,low,9,cloudflare,,,27/09/2026 13:41
 cbc65946-8ce4-4177-9158-285bdb7d39d0,dvorak.institute,available,5.98,37.98,medium,low,6,namecheap,,,19/09/2026 15:32
 e148aae2-50fc-4312-b982-f4ddbb6536d1,winter.institute,available,9.99,27.49,high,low,6,namesilo,,,25/09/2026 11:04
 76bd8c08-ac75-433e-bc4c-a793cea384a6,wooly.institute,available,5.98,37.98,high,low,5,namecheap,,,18/08/2026 08:45
 132751df-95b5-469c-8adc-4d7fffb4d561,ruffled.institute,available,5.98,37.98,medium,low,7,namecheap,,,18/08/2026 15:53
+8b0037fd-543f-4e50-a2d1-013742a51bd2,feldman.institute,available,7.72,22.14,medium,low,7,porkbun,,,27/09/2026 20:17
 af977fc6-f2a5-43af-a501-5f5c7be938ff,coalition.institute,available,9.99,27.49,high,low,9,namesilo,,,18/09/2026 07:45
 ffd612e4-ef01-457d-aa44-bf622d48e4ad,scourge.institute,available,5.98,37.98,medium,low,7,namecheap,,,18/08/2026 06:16
 6f8fe7fa-a83b-49ad-8b46-eb9637fbc7f0,paltry.institute,available,5.98,37.98,medium,low,6,namecheap,,,24/08/2026 18:25
@@ -794,7 +811,7 @@ cbacca78-8ac8-4c87-a7b7-5dccc529c3c8,lightsome.institute,available,5.98,37.98,me
 2e4cdc80-0a1e-4ec7-afb4-d00ec12b342c,woman.institute,resell,,,high,low,5,Dynadot Inc,19/11/2025 09:02,19/11/2026 09:02,26/09/2026 10:12
 32e11652-24bf-4848-b44d-0f5dab1cb0fb,alky.institute,available,5.98,37.98,medium,low,4,namecheap,,,
 2e6ae3a2-266f-4ffa-9fe9-189ad84bf5c9,beltway.institute,available,9.99,27.49,high,low,7,namesilo,,,23/09/2026 07:15
-030b7495-6316-4d35-ba74-e5518f31e81e,haunted.institute,available,5.98,37.98,high,low,7,namecheap,,,21/08/2026 01:31
+030b7495-6316-4d35-ba74-e5518f31e81e,haunted.institute,available,5.98,37.98,medium,low,7,namecheap,,,21/08/2026 01:31
 39105cdf-9393-4e9f-9be5-68c205c6ba38,christina.institute,available,9.99,27.49,high,low,9,namesilo,,,25/09/2026 14:23
 4846c4ca-0141-45f2-adb3-a4b41e60bec4,draw.institute,available,9.99,,high,low,4,name.com,,,
 477339ef-aefc-490b-98d6-60a302228506,storyboards.institute,available,9.99,27.49,medium,low,11,namesilo,,,20/09/2026 14:39
@@ -818,6 +835,7 @@ e6472585-05a1-4afa-81fa-37e505ee8ab9,assailant.institute,available,9.99,27.49,me
 638e4ef4-4076-46e2-abc9-b6796082bdb9,dangerous.institute,available,13.99,35.99,medium,low,9,name.com,,,13/08/2026 17:15
 beb7003f-38e3-4c85-9b7b-8e3d6c11a4b4,million.institute,available,5.98,37.98,high,low,7,namecheap,,,25/09/2026 20:09
 c26afde9-7758-422c-ba55-89a3c55a5c79,bascule.institute,available,5.98,37.98,medium,low,7,namecheap,,,22/09/2026 09:54
+dad6df29-142f-4aa1-86e5-4c3027a40502,samson.institute,available,9.99,27.49,high,low,6,namesilo,,,28/09/2026 01:08
 7427ec8f-98f7-4676-b4ab-c47f21deb252,deprived.institute,available,5.98,37.98,medium,low,8,namecheap,,,14/08/2026 02:45
 030dcb4c-fa11-475e-a96f-772a1a92a8f2,supplement.institute,available,9.99,27.49,high,low,10,namesilo,,,17/09/2026 06:43
 f14467ac-900c-4ab8-ad49-d6a11ff7aa7f,gibson.institute,available,9.99,27.49,high,low,6,namesilo,,,18/09/2026 14:55
@@ -825,19 +843,19 @@ c6b4c550-994d-4251-998d-5bbf1a8e3233,pollen.institute,available,9.99,,high,low,6
 c8ccc1a6-e723-4ea9-ac11-dcc38508005b,director.institute,available,9.99,27.49,high,low,8,namesilo,,,25/09/2026 09:26
 26628d1d-851b-4018-b6b3-0218aa7b3a5d,enjoyed.institute,available,9.99,27.49,medium,low,7,namesilo,,,25/09/2026 20:42
 bb942fb2-eb84-42fd-aca4-a1ef4cf35d57,hardbound.institute,available,5.98,37.98,medium,low,9,namecheap,,,21/08/2026 00:42
-eb2200e2-7e9e-4a4d-8854-8bba31a017b4,roll.institute,available,9.99,,high,low,4,name.com,,,
+eb2200e2-7e9e-4a4d-8854-8bba31a017b4,roll.institute,available,9.99,27.49,high,low,4,namesilo,,,27/09/2026 15:56
 940986af-0c51-4405-88d3-d862b270fe9d,copular.institute,available,5.98,37.98,medium,low,7,namecheap,,,13/08/2026 00:38
 f62582b6-9338-4b93-a876-c2be39f79cb6,coleman.institute,available,9.99,27.49,high,low,7,namesilo,,,25/09/2026 15:48
 57b412bd-5f64-4fa8-9137-859398f2ec17,occupier.institute,available,5.98,37.98,high,low,8,namecheap,,,09/09/2026 14:58
 d725e0eb-b1e7-44cb-91ef-c6ccd44b5d50,bromine.institute,available,9.99,27.49,medium,low,7,namesilo,,,20/09/2026 22:58
 8d312867-cd45-4f38-a6be-52e1fda9e78c,deeper.institute,available,5.98,37.98,high,low,6,namecheap,,,17/09/2026 12:06
 92adb77f-8fb4-405a-8d67-937abfcc53a1,volary.institute,available,9.99,27.49,medium,low,6,namesilo,,,21/09/2026 09:24
-ca3c45b4-9935-4438-a8ad-13aa36826934,tappan.institute,available,9.99,27.49,high,low,6,namesilo,,,20/09/2026 11:08
+ca3c45b4-9935-4438-a8ad-13aa36826934,tappan.institute,available,9.99,27.49,medium,low,6,namesilo,,,20/09/2026 11:08
 07612b71-a97a-44b1-b67d-91f3ed2edd34,diploid.institute,available,5.98,37.98,medium,low,7,namecheap,,,14/08/2026 08:26
 467aed2a-457a-4bb1-9fc1-bbe6f5badb6b,squeeze.institute,available,5.98,37.98,high,low,7,namecheap,,,20/08/2026 22:27
 a250a194-14db-4f8e-8945-b39086d6eabe,slur.institute,available,9.99,27.49,medium,low,4,namesilo,,,20/09/2026 14:59
 00db9153-4ffd-4114-a31d-afcfd7ca87d4,rattle.institute,available,9.99,27.49,high,low,6,namesilo,,,19/09/2026 15:18
-28b49a30-6456-49a3-83a3-06d389332f39,insane.institute,available,5.98,37.98,high,low,6,namecheap,,,21/08/2026 00:58
+28b49a30-6456-49a3-83a3-06d389332f39,insane.institute,available,5.98,37.98,medium,low,6,namecheap,,,21/08/2026 00:58
 fb0c805f-5f5c-4b14-8781-c03c16221435,adorable.institute,available,5.98,37.98,high,low,8,namecheap,,,21/09/2026 19:18
 193a75ac-4100-4adb-a609-7862c9fac6d1,jeremiah.institute,available,9.99,27.49,high,low,8,namesilo,,,24/09/2026 06:54
 ee2b08e9-9a75-4104-8bc7-fac67a32113d,coy.institute,premium,23.6,23.6,high,low,3,namesilo,,,24/09/2026 01:10
@@ -850,8 +868,9 @@ ee2b08e9-9a75-4104-8bc7-fac67a32113d,coy.institute,premium,23.6,23.6,high,low,3,
 6789467e-e3d9-414c-b043-7e6bf4951b24,ageratum.institute,available,9.99,27.49,medium,low,8,namesilo,,,17/09/2026 17:22
 33233f79-0e11-4492-ac14-759c8905819f,vie.institute,premium,23.6,23.6,high,low,3,namesilo,,,
 79174fc0-b1e2-4255-9fae-e44dc7697b90,unstrung.institute,available,5.98,37.98,medium,low,8,namecheap,,,12/09/2026 20:39
-2f5ef89e-05f5-4738-b796-c8395e727447,thirties.institute,available,9.99,27.49,high,low,8,namesilo,,,16/09/2026 12:05
+2f5ef89e-05f5-4738-b796-c8395e727447,thirties.institute,available,9.99,27.49,medium,low,8,namesilo,,,16/09/2026 12:05
 c390d731-ea51-491e-a72a-59674b522bab,slicker.institute,available,9.99,27.49,medium,low,7,namesilo,,,23/09/2026 02:58
+7f80d354-67a9-4e7f-b469-a20c248ba3c4,libby.institute,available,9.99,27.49,high,low,5,namesilo,,,28/09/2026 02:15
 f9ac2428-0d3c-4371-bee2-a2be6306f50a,squall.institute,available,9.99,,medium,low,6,name.com,,,
 ea056777-19c5-4ff6-b374-81d21cae0d3a,epileptic.institute,available,5.98,37.98,high,low,9,namecheap,,,17/08/2026 10:58
 462d5517-59ca-4f06-815e-b0d5e348e8d9,dupe.institute,available,5.98,37.98,high,low,4,namecheap,,,12/08/2026 15:10
@@ -859,7 +878,7 @@ ea056777-19c5-4ff6-b374-81d21cae0d3a,epileptic.institute,available,5.98,37.98,hi
 037bcd19-03a3-4ad3-bcf2-e576aba81a92,mistreated.institute,available,5.98,37.98,medium,low,10,namecheap,,,21/08/2026 19:35
 7445bc02-0ea3-405b-a34d-72f2734e824c,compilers.institute,available,9.99,,medium,low,9,name.com,,,
 3f2bb445-81b6-4135-a1fd-8a63a87c3f65,norfolk.institute,available,9.99,,high,low,7,name.com,,,
-25ad6dbd-91b7-4def-af6b-7ad95a8ddb53,endocrine.institute,available,5.98,37.98,high,low,9,namecheap,,,17/08/2026 01:00
+25ad6dbd-91b7-4def-af6b-7ad95a8ddb53,endocrine.institute,available,5.98,37.98,medium,low,9,namecheap,,,17/08/2026 01:00
 dd2588ab-4f1e-4efe-855a-b2e66572c6eb,verbatim.institute,available,5.98,37.98,high,low,8,namecheap,,,13/09/2026 02:21
 bd2e6176-edc0-4a32-8de1-6ae54be719ad,uppish.institute,available,5.98,37.98,low,low,6,namecheap,,,09/08/2026 20:46
 044d947d-0642-4876-a836-bee693d4553f,querulous.institute,available,5.98,37.98,medium,low,9,namecheap,,,09/09/2026 08:33
@@ -878,7 +897,7 @@ e89492e2-f48a-47ca-b6bc-eb11855f4fd9,informally.institute,available,9.99,,medium
 2b514948-a666-4241-87c5-61329cfb0ac2,vargas.institute,available,9.99,27.49,high,low,6,namesilo,,,27/09/2026 04:13
 d765e1d0-e850-41ac-977c-251568bfb25e,bedford.institute,available,5.98,37.98,high,low,7,namecheap,,,25/09/2026 14:52
 68abc1b4-2688-4562-9a27-94743fc16cb0,baldness.institute,available,9.99,27.49,medium,low,8,namesilo,,,21/09/2026 21:44
-1cbaf0aa-c192-45a1-9f62-3ccdf3bbeefa,seldom.institute,available,5.98,37.98,high,low,6,namecheap,,,15/09/2026 22:34
+1cbaf0aa-c192-45a1-9f62-3ccdf3bbeefa,seldom.institute,available,5.98,37.98,medium,low,6,namecheap,,,15/09/2026 22:34
 bc5bcc1c-5efa-4708-9def-71d6fde53662,batman.institute,available,9.99,,high,low,6,name.com,,,
 70e8bae6-1957-451e-b2b3-d382244873b6,tire.institute,available,9.99,27.49,high,low,4,namesilo,,,25/09/2026 11:34
 cdc6abd0-a1b3-48d6-a4fd-f81db7aaebfb,weeks.institute,available,9.99,,medium,low,5,name.com,,,
@@ -897,7 +916,7 @@ e9e6bcb5-598d-4b30-bda3-d53566a59e8a,delphian.institute,available,5.98,37.98,med
 0053e56d-04e7-4803-9f15-5761fb784aa5,immorality.institute,available,5.98,37.98,medium,low,10,namecheap,,,17/08/2026 15:04
 60b9a7be-973a-4970-900c-926d484f3514,default.institute,available,9.99,,high,low,7,name.com,,,
 b2a5a13f-5ce7-49b0-895d-9a27a7886106,affidavit.institute,available,9.99,,high,low,9,name.com,,,
-044fef61-3f63-47e9-8f0c-77ea8798ac22,superheroes.institute,available,5.98,37.98,high,low,11,namecheap,,,21/09/2026 05:42
+044fef61-3f63-47e9-8f0c-77ea8798ac22,superheroes.institute,available,5.98,37.98,medium,low,11,namecheap,,,21/09/2026 05:42
 18f77fa4-a4bb-46d3-a1d5-f6ead85bbe26,unreached.institute,available,5.98,37.98,medium,low,9,namecheap,,,04/09/2026 18:48
 896b8267-f58c-4503-a292-52d651f5db75,admiralty.institute,available,5.98,37.98,medium,low,9,namecheap,,,17/09/2026 08:53
 94bbd1c4-806e-4554-b257-e850794cca60,follow.institute,available,9.99,,high,low,6,name.com,,,
@@ -906,8 +925,8 @@ b2a5a13f-5ce7-49b0-895d-9a27a7886106,affidavit.institute,available,9.99,,high,lo
 ba22d4bb-378f-4b71-956f-bc852c338f99,debonnaire.institute,available,13.99,35.99,medium,low,10,name.com,,,13/08/2026 20:46
 46f5c49e-5728-497c-8ce5-4cc840e48d61,proclaim.institute,available,9.99,,high,low,8,name.com,,,
 970ae9d9-da5b-47cc-9425-865049da4b70,underneath.institute,available,9.99,27.49,high,low,10,namesilo,,,16/09/2026 09:57
-ef0c366a-2e52-4a02-a326-583153513c05,ruled.institute,available,9.99,,high,low,5,name.com,,,
-9dfdf54f-90e1-47a2-952f-554553426121,instruments.institute,available,9.99,27.49,high,low,11,namesilo,,,25/09/2026 16:57
+ef0c366a-2e52-4a02-a326-583153513c05,ruled.institute,available,5.38,21.94,high,low,5,spaceship,,,27/09/2026 16:50
+9dfdf54f-90e1-47a2-952f-554553426121,instruments.institute,available,9.99,27.49,medium,low,11,namesilo,,,25/09/2026 16:57
 be460a45-d07c-4820-83c8-7204f713a6fe,bandolier.institute,available,9.99,27.49,medium,low,9,namesilo,,,22/09/2026 01:27
 66e945c5-3185-42dd-86c6-c033f33395fa,consumable.institute,available,5.98,37.98,high,low,10,namecheap,,,12/08/2026 23:04
 1fea9b9b-2809-4a75-ae46-8813a0c452a1,explain.institute,available,9.99,,high,low,7,name.com,,,
@@ -920,7 +939,8 @@ e43a8aab-466c-4e0c-89ed-de5a6a0de3fd,germy.institute,available,5.98,37.98,medium
 4b98ed4e-7aad-4737-9e9c-56a25992ae3d,unafraid.institute,available,5.98,37.98,high,low,8,namecheap,,,10/09/2026 01:28
 8ba988d4-3fd4-419d-a7a3-4104eec03fa1,grabby.institute,available,5.98,37.98,medium,low,6,namecheap,,,07/08/2026 21:58
 b117fa20-acf5-4295-bde4-ecdc19e49748,sent.institute,available,9.99,27.49,high,low,4,namesilo,,,19/09/2026 16:10
-930be44f-7a8e-4c5f-9907-efa09336c5a3,angevin.institute,available,9.99,27.49,high,low,7,namesilo,,,19/09/2026 06:06
+930be44f-7a8e-4c5f-9907-efa09336c5a3,angevin.institute,available,9.99,27.49,medium,low,7,namesilo,,,19/09/2026 06:06
+ccf7c7e8-9251-4cea-a96a-48010facac1d,enrollment.institute,available,9.99,27.49,high,low,10,namesilo,,,28/09/2026 02:45
 c6832200-44c5-44ec-a0d1-d476c7eadb3c,strife.institute,available,9.99,27.49,high,low,6,namesilo,,,24/09/2026 22:33
 5f1d6b94-99ce-4cf0-84a5-4c4e8230f975,achromatic.institute,available,5.98,37.98,medium,low,10,namecheap,,,
 efd7b2c5-d4de-40f5-8b8a-7f222c9deafe,incisive.institute,available,5.98,37.98,medium,low,8,namecheap,,,22/08/2026 01:21
@@ -928,13 +948,13 @@ efd7b2c5-d4de-40f5-8b8a-7f222c9deafe,incisive.institute,available,5.98,37.98,med
 bc64bc73-6349-4d5e-9421-0d1d6e8f2545,biface.institute,available,5.98,37.98,medium,low,6,namecheap,,,09/08/2026 19:55
 e25d61f2-926b-4977-8ed7-4a9721700922,homicide.institute,available,9.99,27.49,medium,low,8,namesilo,,,25/09/2026 07:26
 fe5bb6f2-1b40-41de-8984-cf22f8f41118,ernie.institute,available,9.99,27.49,high,low,5,namesilo,,,27/09/2026 07:15
-e73d49fb-4da2-407b-99e5-3bf9f16b5d80,grammatic.institute,available,5.98,37.98,high,low,9,namecheap,,,20/08/2026 17:56
+e73d49fb-4da2-407b-99e5-3bf9f16b5d80,grammatic.institute,available,5.98,37.98,medium,low,9,namecheap,,,20/08/2026 17:56
 70717172-d4fa-48ed-ae80-c30b3fd1f276,immortal.institute,available,5.98,37.98,high,low,8,namecheap,,,21/08/2026 21:12
 6fd6b71b-325d-4dfd-9632-a34d5b801f5e,rouser.institute,available,5.98,37.98,medium,low,6,namecheap,,,20/09/2026 08:33
 1a7e9c4c-28df-4754-87d6-292abd52143d,athletics.institute,available,,,high,medium,9,,,,
 3a992a76-97c7-4e47-ba22-11834167451d,lousy.institute,available,5.98,37.98,medium,low,5,namecheap,,,24/09/2026 01:33
 0d9a90f6-7034-4f1b-8a73-18a4239a2655,cube.institute,available,9.99,,high,medium,4,name.com,,,
-9a9cf475-2740-45d2-b47e-5b183b2b5ad9,greased.institute,available,5.98,37.98,high,low,7,namecheap,,,20/08/2026 19:33
+9a9cf475-2740-45d2-b47e-5b183b2b5ad9,greased.institute,available,5.98,37.98,medium,low,7,namecheap,,,20/08/2026 19:33
 8650208e-35c3-4e4d-b3e0-a4f4af7d8132,skintight.institute,available,5.98,37.98,medium,low,9,namecheap,,,10/09/2026 09:40
 4c13a35c-0f7c-466c-9d00-9a270176044c,springbok.institute,available,9.99,27.49,medium,low,9,namesilo,,,19/09/2026 14:19
 9dcd27ce-f11a-4179-ab09-fa1653830949,bootless.institute,available,5.98,37.98,medium,low,8,namecheap,,,10/08/2026 19:37
@@ -959,7 +979,7 @@ d60e32be-5693-47e3-b7b8-736d70d6777b,swosh.institute,available,5.98,37.98,medium
 d6802776-bf74-4050-9e92-ca1a387b9266,attester.institute,available,9.99,27.49,medium,low,8,namesilo,,,21/09/2026 01:41
 1e5d8681-d0a5-427b-bbcd-5f5c135099d3,creole.institute,available,5.98,37.98,high,low,6,namecheap,,,13/08/2026 06:07
 c3c4d7af-6737-4450-ae98-e95074adcf8a,obliterate.institute,available,5.98,37.98,medium,low,10,namecheap,,,10/08/2026 15:34
-e1b7784c-b11c-4748-a47d-bc7555287878,wiggly.institute,available,5.98,37.98,high,low,6,namecheap,,,10/09/2026 08:40
+e1b7784c-b11c-4748-a47d-bc7555287878,wiggly.institute,available,5.98,37.98,medium,low,6,namecheap,,,10/09/2026 08:40
 fda6244e-f8d8-43a6-bef4-273586dff00f,beduin.institute,available,9.99,27.49,medium,low,6,namesilo,,,22/09/2026 23:27
 4cc8db91-8d5c-4c44-9b49-c39f4ee50449,slaughter.institute,available,5.98,37.98,medium,low,9,namecheap,,,13/09/2026 08:00
 6ed8169e-156a-4b63-91c7-37d9dddeeda2,cotton.institute,available,9.99,,high,low,6,name.com,,,
@@ -975,27 +995,7 @@ da196c68-4712-4229-854c-6eefa92fac49,replicate.institute,available,5.98,37.98,hi
 b834808e-d04e-49b2-84eb-0b7f346fbc03,mosque.institute,available,9.99,,high,low,6,name.com,,,
 8b86c811-5e19-41c8-99d2-1e46441fe8f5,ursine.institute,available,5.98,37.98,low,low,6,namecheap,,,12/09/2026 23:53
 673e3105-a536-4785-8a1b-9b9362bb8d85,scent.institute,resell,,,high,low,5,Dynadot Inc,29/09/2023 23:29,29/09/2028 23:29,26/09/2026 08:50
-e571f335-252a-4b0d-af1d-c9d9e0811a92,haywood.institute,available,9.99,27.49,high,low,7,namesilo,,,23/09/2026 14:07
+e571f335-252a-4b0d-af1d-c9d9e0811a92,haywood.institute,available,9.99,27.49,medium,low,7,namesilo,,,23/09/2026 14:07
 3e304789-e379-401b-b6a1-6e8f6b882b11,confined.institute,available,5.98,37.98,medium,low,8,namecheap,,,11/08/2026 18:20
 b3467aec-29a5-4f20-a5b2-1e0a474bcc57,birdcall.institute,available,5.98,37.98,high,low,8,namecheap,,,23/09/2026 20:35
 051c70e5-77b6-4a25-9d8e-1de4c0a451d1,devoted.institute,available,9.99,27.49,high,low,7,namesilo,,,24/09/2026 08:04
-b89bdeaa-b036-4f5a-8d85-58450ba84588,implacable.institute,available,5.98,37.98,medium,low,10,namecheap,,,21/08/2026 22:31
-e7d9abc0-1330-4a82-ad49-10839369c8e0,knows.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 02:31
-250042ba-bb61-462c-b3f4-d392621d096b,atf.institute,premium,26,26,high,low,3,namecheap,,,20/09/2026 20:14
-46d8d9d1-1f2c-4bcb-b3d3-68fc70b9e325,heap.institute,available,5.98,37.98,high,low,4,namecheap,,,25/08/2026 00:28
-1c66e156-bba6-4a21-8513-318058d44ba5,anthesis.institute,available,5.98,37.98,high,low,8,namecheap,,,18/08/2026 09:06
-85eb6f0f-0123-4a9c-8ded-d4dd911d9f80,teresa.institute,available,5.98,37.98,high,low,6,namecheap,,,17/09/2026 18:40
-5213a38a-6362-48ab-a65e-ad63d281fc88,voices.institute,available,9.99,,high,low,6,name.com,,,
-0c8ff79a-052e-42d8-9166-41b5d7d83dcb,erase.institute,available,9.99,,high,low,5,name.com,,,
-d9503ca9-c4ba-469a-8d8e-1f6e63b0ff76,trivalent.institute,available,5.98,37.98,medium,low,9,namecheap,,,11/09/2026 20:13
-b2e09d13-5ba2-4751-a12d-1b12dd76e3c8,oozing.institute,available,5.98,37.98,medium,low,6,namecheap,,,04/09/2026 15:28
-d7873bdc-8ce8-415e-9a28-c5d4b33a8632,axilla.institute,available,9.99,27.49,medium,low,6,namesilo,,,20/09/2026 07:40
-f8f6131d-debc-4e6e-bf26-5f100e2c4ed8,absorbent.institute,available,5.98,37.98,high,low,9,namecheap,,,
-b0787aa3-72c2-4f8c-a000-9559138af21b,obscurely.institute,available,5.98,37.98,medium,low,9,namecheap,,,15/09/2026 17:13
-cd4b4350-2011-47d0-a686-782161b88a13,gird.institute,available,9.99,27.49,medium,low,4,namesilo,,,20/09/2026 06:19
-b3e79cb3-a73a-466f-8ba8-6b266e1fba3f,traveler.institute,available,9.99,,high,low,8,name.com,,,
-49db8803-0d45-49cc-a5d8-0ecfff9c8afe,squatting.institute,available,5.98,37.98,medium,low,9,namecheap,,,10/09/2026 17:35
-10506d59-5d71-4f8a-8266-f6b73ac83a09,plug.institute,available,9.99,,high,low,4,name.com,,,
-f2f6c5e7-2a01-4b43-ae18-8c6adcc7682f,knot.institute,available,9.99,,high,low,4,name.com,,,
-4012a072-d18a-4bbc-884a-0598adb9b81b,percy.institute,available,9.99,27.49,high,low,5,namesilo,,,25/09/2026 06:59
-aff4b24f-b123-4b0b-9ba9-a40cf9e1eb29,hoarfrost.institute,available,5.98,37.98,medium,low,9,namecheap,,,21/08/2026 10:07
